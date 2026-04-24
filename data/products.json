@@ -1978,7 +1978,7 @@
     "id": 75,
     "last_seen_at": "2026-04-24T17:30:36.814441",
     "last_verified_at": "2026-04-24T17:30:36.814441",
-    "partition_key": "chatgpt|pro|1_month|card_key|recharge|100刀|unknown|no_warranty",
+    "partition_key": "chatgpt|pro|1_month|card_key|recharge|100刀|unknown|30_days",
     "plan": "pro",
     "price": 400.0,
     "price_fee": null,
@@ -2006,7 +2006,7 @@
     "stock": 1,
     "stock_state": "available",
     "term": "1_month",
-    "warranty_level": "no_warranty"
+    "warranty_level": "30_days"
   },
   {
     "account_type": "recharge",
@@ -2019,7 +2019,7 @@
     "id": 76,
     "last_seen_at": "2026-04-24T17:30:36.821958",
     "last_verified_at": "2026-04-24T17:30:36.821958",
-    "partition_key": "chatgpt|pro|1_month|card_key|recharge|200刀|unknown|no_warranty",
+    "partition_key": "chatgpt|pro|1_month|card_key|recharge|200刀|unknown|30_days",
     "plan": "pro",
     "price": 600.0,
     "price_fee": null,
@@ -2047,7 +2047,7 @@
     "stock": 1,
     "stock_state": "available",
     "term": "1_month",
-    "warranty_level": "no_warranty"
+    "warranty_level": "30_days"
   },
   {
     "account_type": "email_account",
@@ -2088,7 +2088,7 @@
     "stock": 62,
     "stock_state": "available",
     "term": "unknown",
-    "warranty_level": "no_warranty"
+    "warranty_level": "1_hour"
   },
   {
     "account_type": "recharge",
@@ -3741,7 +3741,7 @@
     "id": 230,
     "last_seen_at": "2026-04-24T17:33:24.392055",
     "last_verified_at": "2026-04-24T17:33:24.392055",
-    "partition_key": "chatgpt|other|unknown|account|normal_account|none|unknown|no_warranty",
+    "partition_key": "chatgpt|other|unknown|account|normal_account|none|unknown|1_hour",
     "plan": "other",
     "price": 4.0,
     "price_fee": null,
@@ -3769,7 +3769,7 @@
     "stock": 62,
     "stock_state": "available",
     "term": "unknown",
-    "warranty_level": "no_warranty"
+    "warranty_level": "1_hour"
   },
   {
     "account_type": "recharge",
@@ -5053,7 +5053,7 @@
     "id": 311,
     "last_seen_at": "2026-04-24T17:30:36.861344",
     "last_verified_at": "2026-04-24T17:30:36.861344",
-    "partition_key": "claude|pro|1_month|card_key|recharge|none|unknown|no_warranty",
+    "partition_key": "claude|pro|1_month|card_key|recharge|none|unknown|30_days",
     "plan": "pro",
     "price": 115.0,
     "price_fee": null,
@@ -5081,7 +5081,7 @@
     "stock": 6,
     "stock_state": "available",
     "term": "1_month",
-    "warranty_level": "no_warranty"
+    "warranty_level": "30_days"
   },
   {
     "account_type": "recharge",
@@ -5463,7 +5463,7 @@
     "id": 365,
     "last_seen_at": "2026-04-24T17:33:24.383521",
     "last_verified_at": "2026-04-24T17:33:24.383521",
-    "partition_key": "claude|pro|1_month|card_key|recharge|none|unknown|no_warranty",
+    "partition_key": "claude|pro|1_month|card_key|recharge|none|unknown|30_days",
     "plan": "pro",
     "price": 145.0,
     "price_fee": null,
@@ -5491,7 +5491,7 @@
     "stock": 6,
     "stock_state": "available",
     "term": "1_month",
-    "warranty_level": "no_warranty"
+    "warranty_level": "30_days"
   },
   {
     "account_type": "finished_account",
@@ -6939,7 +6939,7 @@
     "id": 531,
     "last_seen_at": "2026-04-24T17:34:28.512660",
     "last_verified_at": "2026-04-24T17:34:28.512660",
-    "partition_key": "chatgpt|other|unknown|account|normal_account|none|unknown|no_warranty",
+    "partition_key": "chatgpt|other|unknown|account|normal_account|none|unknown|1_hour",
     "plan": "other",
     "price": 1.0,
     "price_fee": null,
@@ -6967,7 +6967,7 @@
     "stock": 455,
     "stock_state": "available",
     "term": "unknown",
-    "warranty_level": "no_warranty"
+    "warranty_level": "1_hour"
   },
   {
     "account_type": "finished_account",
@@ -7185,7 +7185,7 @@
     "id": 540,
     "last_seen_at": "2026-04-24T17:33:24.368493",
     "last_verified_at": "2026-04-24T17:33:24.368493",
-    "partition_key": "claude|pro|1_month|card_key|recharge|none|unknown|no_warranty",
+    "partition_key": "claude|pro|1_month|card_key|recharge|none|unknown|30_days",
     "plan": "pro",
     "price": 151.2,
     "price_fee": null,
@@ -7213,7 +7213,7 @@
     "stock": 14,
     "stock_state": "available",
     "term": "1_month",
-    "warranty_level": "no_warranty"
+    "warranty_level": "30_days"
   },
   {
     "account_type": "finished_account",
@@ -7267,7 +7267,7 @@
     "id": 542,
     "last_seen_at": "2026-04-24T17:33:24.371503",
     "last_verified_at": "2026-04-24T17:33:24.371503",
-    "partition_key": "grok|super|1_month|account|finished_account|none|unknown|no_warranty",
+    "partition_key": "grok|super|1_month|account|finished_account|none|unknown|1_week",
     "plan": "super",
     "price": 42.0,
     "price_fee": null,
@@ -7295,7 +7295,7 @@
     "stock": 3,
     "stock_state": "available",
     "term": "1_month",
-    "warranty_level": "no_warranty"
+    "warranty_level": "1_week"
   },
   {
     "account_type": "finished_account",
@@ -7431,7 +7431,7 @@
     "id": 546,
     "last_seen_at": "2026-04-24T17:33:24.375967",
     "last_verified_at": "2026-04-24T17:33:24.375967",
-    "partition_key": "grok|other|unknown|account|normal_account|none|unknown|no_warranty",
+    "partition_key": "grok|other|unknown|account|normal_account|none|unknown|1_hour",
     "plan": "other",
     "price": 1.1,
     "price_fee": null,
@@ -7459,7 +7459,7 @@
     "stock": 56,
     "stock_state": "available",
     "term": "unknown",
-    "warranty_level": "no_warranty"
+    "warranty_level": "1_hour"
   },
   {
     "account_type": "finished_account",
@@ -8087,7 +8087,7 @@
     "id": 570,
     "last_seen_at": "2026-04-24T17:33:14.432238",
     "last_verified_at": "2026-04-24T17:33:14.432238",
-    "partition_key": "claude|pro|1_month|card_key|recharge|none|unknown|no_warranty",
+    "partition_key": "claude|pro|1_month|card_key|recharge|none|unknown|30_days",
     "plan": "pro",
     "price": 120.0,
     "price_fee": null,
@@ -8115,7 +8115,7 @@
     "stock": 349,
     "stock_state": "available",
     "term": "1_month",
-    "warranty_level": "no_warranty"
+    "warranty_level": "30_days"
   },
   {
     "account_type": "recharge",
@@ -8361,7 +8361,7 @@
     "stock": 166,
     "stock_state": "available",
     "term": "unknown",
-    "warranty_level": "no_warranty"
+    "warranty_level": "1_hour"
   },
   {
     "account_type": "virtual_card",
@@ -9522,7 +9522,7 @@
     "id": 622,
     "last_seen_at": "2026-04-24T17:37:17.875534",
     "last_verified_at": "2026-04-24T17:37:17.875534",
-    "partition_key": "claude|pro|1_month|card_key|recharge|none|unknown|no_warranty",
+    "partition_key": "claude|pro|1_month|card_key|recharge|none|unknown|30_days",
     "plan": "pro",
     "price": 110.0,
     "price_fee": null,
@@ -9550,7 +9550,7 @@
     "stock": 5,
     "stock_state": "available",
     "term": "1_month",
-    "warranty_level": "no_warranty"
+    "warranty_level": "30_days"
   },
   {
     "account_type": "recharge",
@@ -10506,7 +10506,7 @@
     "id": 648,
     "last_seen_at": "2026-04-24T17:36:55.332226",
     "last_verified_at": "2026-04-24T17:36:55.332226",
-    "partition_key": "chatgpt|other|unknown|account|normal_account|none|unknown|no_warranty",
+    "partition_key": "chatgpt|other|unknown|account|normal_account|none|unknown|1_hour",
     "plan": "other",
     "price": 1.0,
     "price_fee": null,
@@ -10534,7 +10534,7 @@
     "stock": 455,
     "stock_state": "available",
     "term": "unknown",
-    "warranty_level": "no_warranty"
+    "warranty_level": "1_hour"
   },
   {
     "account_type": "recharge",
@@ -11449,7 +11449,7 @@
     "id": 672,
     "last_seen_at": "2026-04-24T17:36:18.464124",
     "last_verified_at": "2026-04-24T17:36:18.464124",
-    "partition_key": "chatgpt|plus|1_month|card_key|recharge|none|unknown|no_warranty",
+    "partition_key": "chatgpt|plus|1_month|card_key|recharge|none|unknown|30_days",
     "plan": "plus",
     "price": 112.0,
     "price_fee": null,
@@ -11477,7 +11477,7 @@
     "stock": 7,
     "stock_state": "available",
     "term": "1_month",
-    "warranty_level": "no_warranty"
+    "warranty_level": "30_days"
   },
   {
     "account_type": "recharge",
@@ -11531,7 +11531,7 @@
     "id": 674,
     "last_seen_at": "2026-04-24T17:36:18.468659",
     "last_verified_at": "2026-04-24T17:36:18.468659",
-    "partition_key": "claude|pro|1_month|card_key|recharge|none|unknown|no_warranty",
+    "partition_key": "claude|pro|1_month|card_key|recharge|none|unknown|30_days",
     "plan": "pro",
     "price": 110.0,
     "price_fee": null,
@@ -11559,7 +11559,7 @@
     "stock": 14,
     "stock_state": "available",
     "term": "1_month",
-    "warranty_level": "no_warranty"
+    "warranty_level": "30_days"
   },
   {
     "account_type": "unknown",
@@ -12228,7 +12228,7 @@
     "id": 691,
     "last_seen_at": "2026-04-24T17:36:18.498205",
     "last_verified_at": "2026-04-24T17:36:18.498205",
-    "partition_key": "grok|super|1_month|account|finished_account|none|unknown|no_warranty",
+    "partition_key": "grok|super|1_month|account|finished_account|none|unknown|1_week",
     "plan": "super",
     "price": 35.0,
     "price_fee": null,
@@ -12256,7 +12256,7 @@
     "stock": 3,
     "stock_state": "available",
     "term": "1_month",
-    "warranty_level": "no_warranty"
+    "warranty_level": "1_week"
   },
   {
     "account_type": "seat",
