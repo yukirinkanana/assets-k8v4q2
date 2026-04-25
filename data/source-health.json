@@ -1,14 +1,14 @@
 {
   "abnormal_site_count": 1,
-  "attempted_site_count": 55,
+  "attempted_site_count": 56,
   "counts_by_status": {
     "disabled": 5,
     "empty": 2,
-    "healthy": 47,
+    "healthy": 48,
     "outage": 1
   },
-  "generated_at": "2026-04-25T05:47:14.714427+00:00",
-  "site_count": 55,
+  "generated_at": "2026-04-25T05:50:56.240336+00:00",
+  "site_count": 56,
   "sites": [
     {
       "active_product_count": 8,
@@ -664,7 +664,7 @@
       "is_enabled": true,
       "last_error_at": null,
       "last_error_message": null,
-      "last_success_at": "2026-04-25T03:45:15.334905",
+      "last_success_at": "2026-04-25T05:50:08.096100",
       "name": "LDXP NYYY03",
       "products_seen": 2,
       "public_product_count": 2,
@@ -944,9 +944,26 @@
       "run_sync_status": "synced",
       "site_key": "spark_zone",
       "status": "healthy"
+    },
+    {
+      "active_product_count": 1,
+      "affects_publish": false,
+      "attempted_in_run": true,
+      "base_url": "https://pay.ldxp.cn/shop/L3MICL3Q",
+      "is_enabled": true,
+      "last_error_at": null,
+      "last_error_message": null,
+      "last_success_at": "2026-04-25T05:50:13.770369",
+      "name": "LDXP L3MICL3Q",
+      "products_seen": 1,
+      "public_product_count": 1,
+      "run_data_status": "latest",
+      "run_sync_status": "synced",
+      "site_key": "ldxp_l3micl3q",
+      "status": "healthy"
     }
   ],
-  "sync_finished_at": "2026-04-25T05:47:03.629066+00:00",
+  "sync_finished_at": "2026-04-25T05:50:48.328802+00:00",
   "sync_run_id": "817d632f31a48837",
   "sync_started_at": "2026-04-25T03:37:43.990347+00:00"
 }
