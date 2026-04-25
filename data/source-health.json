@@ -1,13 +1,13 @@
 {
   "abnormal_site_count": 0,
-  "attempted_site_count": 8,
+  "attempted_site_count": 1,
   "counts_by_status": {
     "disabled": 5,
     "empty": 2,
     "healthy": 51,
     "outage": 1
   },
-  "generated_at": "2026-04-25T14:32:08.529253+00:00",
+  "generated_at": "2026-04-25T14:32:29.520954+00:00",
   "site_count": 59,
   "sites": [
     {
@@ -166,7 +166,7 @@
     {
       "active_product_count": 0,
       "affects_publish": false,
-      "attempted_in_run": true,
+      "attempted_in_run": false,
       "base_url": "https://pay.ldxp.cn/shop/sam_altman",
       "is_enabled": false,
       "last_error_at": null,
@@ -175,8 +175,8 @@
       "name": "LDXP Sam Altman",
       "products_seen": null,
       "public_product_count": 0,
-      "run_data_status": "disabled",
-      "run_sync_status": "disabled",
+      "run_data_status": null,
+      "run_sync_status": null,
       "site_key": "ldxp_sam_altman",
       "status": "disabled"
     },
@@ -188,7 +188,7 @@
       "is_enabled": true,
       "last_error_at": null,
       "last_error_message": null,
-      "last_success_at": "2026-04-25T14:32:07.083905",
+      "last_success_at": "2026-04-25T14:32:11.442191",
       "name": "LDXP 66AI",
       "products_seen": 1,
       "public_product_count": 1,
@@ -217,7 +217,7 @@
     {
       "active_product_count": 0,
       "affects_publish": false,
-      "attempted_in_run": true,
+      "attempted_in_run": false,
       "base_url": "https://pay.ldxp.cn/shop/jsonplus/iu0xjh",
       "is_enabled": false,
       "last_error_at": null,
@@ -226,8 +226,8 @@
       "name": "LDXP JsonPlus IU0XJH",
       "products_seen": null,
       "public_product_count": 0,
-      "run_data_status": "disabled",
-      "run_sync_status": "disabled",
+      "run_data_status": null,
+      "run_sync_status": null,
       "site_key": "ldxp_jsonplus_iu0xjh",
       "status": "disabled"
     },
@@ -268,7 +268,7 @@
     {
       "active_product_count": 0,
       "affects_publish": false,
-      "attempted_in_run": true,
+      "attempted_in_run": false,
       "base_url": "https://pay.ldxp.cn/shop/NOAI",
       "is_enabled": false,
       "last_error_at": null,
@@ -277,8 +277,8 @@
       "name": "LDXP NOAI",
       "products_seen": null,
       "public_product_count": 0,
-      "run_data_status": "disabled",
-      "run_sync_status": "disabled",
+      "run_data_status": null,
+      "run_sync_status": null,
       "site_key": "ldxp_noai",
       "status": "disabled"
     },
@@ -387,7 +387,7 @@
     {
       "active_product_count": 0,
       "affects_publish": false,
-      "attempted_in_run": true,
+      "attempted_in_run": false,
       "base_url": "https://aifk.opensora.de",
       "is_enabled": false,
       "last_error_at": null,
@@ -396,8 +396,8 @@
       "name": "AIFK OpenSora",
       "products_seen": null,
       "public_product_count": 0,
-      "run_data_status": "disabled",
-      "run_sync_status": "disabled",
+      "run_data_status": null,
+      "run_sync_status": null,
       "site_key": "aifk_opensora",
       "status": "disabled"
     },
@@ -472,7 +472,7 @@
     {
       "active_product_count": 0,
       "affects_publish": false,
-      "attempted_in_run": true,
+      "attempted_in_run": false,
       "base_url": "https://ferrigpt.asia",
       "is_enabled": false,
       "last_error_at": "2026-04-25T03:04:05.574656",
@@ -481,8 +481,8 @@
       "name": "FerriGPT",
       "products_seen": null,
       "public_product_count": 0,
-      "run_data_status": "disabled",
-      "run_sync_status": "disabled",
+      "run_data_status": null,
+      "run_sync_status": null,
       "site_key": "ferrigpt",
       "status": "disabled"
     },
@@ -795,17 +795,17 @@
     {
       "active_product_count": 3,
       "affects_publish": false,
-      "attempted_in_run": true,
+      "attempted_in_run": false,
       "base_url": "https://pay.ldxp.cn/shop/UE1IIAP7",
       "is_enabled": true,
       "last_error_at": null,
       "last_error_message": null,
       "last_success_at": "2026-04-25T14:31:52.067174",
       "name": "LDXP UE1IIAP7",
-      "products_seen": 3,
+      "products_seen": null,
       "public_product_count": 3,
-      "run_data_status": "latest",
-      "run_sync_status": "synced",
+      "run_data_status": null,
+      "run_sync_status": null,
       "site_key": "ldxp_ue1iiap7",
       "status": "healthy"
     },
@@ -965,17 +965,17 @@
     {
       "active_product_count": 5,
       "affects_publish": false,
-      "attempted_in_run": true,
+      "attempted_in_run": false,
       "base_url": "https://pay.ldxp.cn/shop/KHRR17MS",
       "is_enabled": true,
       "last_error_at": null,
       "last_error_message": null,
       "last_success_at": "2026-04-25T14:31:53.046739",
       "name": "LDXP KHRR17MS",
-      "products_seen": 5,
+      "products_seen": null,
       "public_product_count": 5,
-      "run_data_status": "latest",
-      "run_sync_status": "synced",
+      "run_data_status": null,
+      "run_sync_status": null,
       "site_key": "ldxp_khrr17ms",
       "status": "healthy"
     },
@@ -1014,7 +1014,7 @@
       "status": "healthy"
     }
   ],
-  "sync_finished_at": "2026-04-25T14:32:07.089094+00:00",
-  "sync_run_id": "2fb24c996ce266d4",
-  "sync_started_at": "2026-04-25T14:30:55.470900+00:00"
+  "sync_finished_at": "2026-04-25T14:32:11.453576+00:00",
+  "sync_run_id": "b149b1cc481ccb63",
+  "sync_started_at": "2026-04-25T14:31:43.406912+00:00"
 }
