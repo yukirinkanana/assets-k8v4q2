@@ -1,13 +1,13 @@
 {
   "abnormal_site_count": 0,
-  "attempted_site_count": 1,
+  "attempted_site_count": 8,
   "counts_by_status": {
     "disabled": 5,
     "empty": 2,
     "healthy": 51,
     "outage": 1
   },
-  "generated_at": "2026-04-25T14:32:29.520954+00:00",
+  "generated_at": "2026-04-25T14:33:49.330982+00:00",
   "site_count": 59,
   "sites": [
     {
@@ -30,17 +30,17 @@
     {
       "active_product_count": 6,
       "affects_publish": false,
-      "attempted_in_run": false,
+      "attempted_in_run": true,
       "base_url": "https://go365-card.com",
       "is_enabled": true,
       "last_error_at": null,
       "last_error_message": null,
-      "last_success_at": "2026-04-25T14:03:14.099145",
+      "last_success_at": "2026-04-25T14:33:46.662911",
       "name": "Go365 Card",
-      "products_seen": null,
+      "products_seen": 6,
       "public_product_count": 6,
-      "run_data_status": null,
-      "run_sync_status": null,
+      "run_data_status": "latest",
+      "run_sync_status": "synced",
       "site_key": "go365",
       "status": "healthy"
     },
@@ -98,17 +98,17 @@
     {
       "active_product_count": 10,
       "affects_publish": false,
-      "attempted_in_run": false,
+      "attempted_in_run": true,
       "base_url": "https://traders.indevs.in",
       "is_enabled": true,
       "last_error_at": null,
       "last_error_message": null,
-      "last_success_at": "2026-04-25T14:03:20.073371",
+      "last_success_at": "2026-04-25T14:33:47.718658",
       "name": "Traders Indevs",
-      "products_seen": null,
+      "products_seen": 10,
       "public_product_count": 10,
-      "run_data_status": null,
-      "run_sync_status": null,
+      "run_data_status": "latest",
+      "run_sync_status": "synced",
       "site_key": "traders_indevs",
       "status": "healthy"
     },
@@ -166,7 +166,7 @@
     {
       "active_product_count": 0,
       "affects_publish": false,
-      "attempted_in_run": false,
+      "attempted_in_run": true,
       "base_url": "https://pay.ldxp.cn/shop/sam_altman",
       "is_enabled": false,
       "last_error_at": null,
@@ -175,25 +175,25 @@
       "name": "LDXP Sam Altman",
       "products_seen": null,
       "public_product_count": 0,
-      "run_data_status": null,
-      "run_sync_status": null,
+      "run_data_status": "disabled",
+      "run_sync_status": "disabled",
       "site_key": "ldxp_sam_altman",
       "status": "disabled"
     },
     {
       "active_product_count": 1,
       "affects_publish": false,
-      "attempted_in_run": true,
+      "attempted_in_run": false,
       "base_url": "https://pay.ldxp.cn/shop/66ai",
       "is_enabled": true,
       "last_error_at": null,
       "last_error_message": null,
       "last_success_at": "2026-04-25T14:32:11.442191",
       "name": "LDXP 66AI",
-      "products_seen": 1,
+      "products_seen": null,
       "public_product_count": 1,
-      "run_data_status": "latest",
-      "run_sync_status": "synced",
+      "run_data_status": null,
+      "run_sync_status": null,
       "site_key": "ldxp_66ai",
       "status": "healthy"
     },
@@ -217,7 +217,7 @@
     {
       "active_product_count": 0,
       "affects_publish": false,
-      "attempted_in_run": false,
+      "attempted_in_run": true,
       "base_url": "https://pay.ldxp.cn/shop/jsonplus/iu0xjh",
       "is_enabled": false,
       "last_error_at": null,
@@ -226,8 +226,8 @@
       "name": "LDXP JsonPlus IU0XJH",
       "products_seen": null,
       "public_product_count": 0,
-      "run_data_status": null,
-      "run_sync_status": null,
+      "run_data_status": "disabled",
+      "run_sync_status": "disabled",
       "site_key": "ldxp_jsonplus_iu0xjh",
       "status": "disabled"
     },
@@ -268,7 +268,7 @@
     {
       "active_product_count": 0,
       "affects_publish": false,
-      "attempted_in_run": false,
+      "attempted_in_run": true,
       "base_url": "https://pay.ldxp.cn/shop/NOAI",
       "is_enabled": false,
       "last_error_at": null,
@@ -277,8 +277,8 @@
       "name": "LDXP NOAI",
       "products_seen": null,
       "public_product_count": 0,
-      "run_data_status": null,
-      "run_sync_status": null,
+      "run_data_status": "disabled",
+      "run_sync_status": "disabled",
       "site_key": "ldxp_noai",
       "status": "disabled"
     },
@@ -387,7 +387,7 @@
     {
       "active_product_count": 0,
       "affects_publish": false,
-      "attempted_in_run": false,
+      "attempted_in_run": true,
       "base_url": "https://aifk.opensora.de",
       "is_enabled": false,
       "last_error_at": null,
@@ -396,8 +396,8 @@
       "name": "AIFK OpenSora",
       "products_seen": null,
       "public_product_count": 0,
-      "run_data_status": null,
-      "run_sync_status": null,
+      "run_data_status": "disabled",
+      "run_sync_status": "disabled",
       "site_key": "aifk_opensora",
       "status": "disabled"
     },
@@ -472,7 +472,7 @@
     {
       "active_product_count": 0,
       "affects_publish": false,
-      "attempted_in_run": false,
+      "attempted_in_run": true,
       "base_url": "https://ferrigpt.asia",
       "is_enabled": false,
       "last_error_at": "2026-04-25T03:04:05.574656",
@@ -481,8 +481,8 @@
       "name": "FerriGPT",
       "products_seen": null,
       "public_product_count": 0,
-      "run_data_status": null,
-      "run_sync_status": null,
+      "run_data_status": "disabled",
+      "run_sync_status": "disabled",
       "site_key": "ferrigpt",
       "status": "disabled"
     },
@@ -846,17 +846,17 @@
     {
       "active_product_count": 10,
       "affects_publish": false,
-      "attempted_in_run": false,
+      "attempted_in_run": true,
       "base_url": "https://shop.aitonse.com",
       "is_enabled": true,
       "last_error_at": null,
       "last_error_message": null,
-      "last_success_at": "2026-04-25T14:03:31.688381",
+      "last_success_at": "2026-04-25T14:33:46.728790",
       "name": "Aitonse",
-      "products_seen": null,
+      "products_seen": 10,
       "public_product_count": 10,
-      "run_data_status": null,
-      "run_sync_status": null,
+      "run_data_status": "latest",
+      "run_sync_status": "synced",
       "site_key": "aitonse",
       "status": "healthy"
     },
@@ -1014,7 +1014,7 @@
       "status": "healthy"
     }
   ],
-  "sync_finished_at": "2026-04-25T14:32:11.453576+00:00",
-  "sync_run_id": "b149b1cc481ccb63",
-  "sync_started_at": "2026-04-25T14:31:43.406912+00:00"
+  "sync_finished_at": "2026-04-25T14:33:47.725071+00:00",
+  "sync_run_id": "f02aec75a350c956",
+  "sync_started_at": "2026-04-25T14:32:54.542254+00:00"
 }
