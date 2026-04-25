@@ -3,11 +3,11 @@
   "attempted_site_count": 52,
   "counts_by_status": {
     "disabled": 5,
-    "empty": 3,
-    "healthy": 43,
+    "empty": 2,
+    "healthy": 44,
     "outage": 1
   },
-  "generated_at": "2026-04-25T04:57:39.045500+00:00",
+  "generated_at": "2026-04-25T05:02:27.546795+00:00",
   "site_count": 52,
   "sites": [
     {
@@ -33,8 +33,8 @@
       "attempted_in_run": true,
       "base_url": "https://go365-card.com",
       "is_enabled": true,
-      "last_error_at": "2026-04-25T03:38:43.069223",
-      "last_error_message": "Source request failed: timeout https://go365-card.com/api/v1/public/products?page=1&page_size=50",
+      "last_error_at": "2026-04-25T04:56:31.104531",
+      "last_error_message": "Source request failed: timeout https://go365-card.com/api/v1/public/products?page=1&page_size=20",
       "last_success_at": "2026-04-24T18:14:05.525182",
       "name": "Go365 Card",
       "products_seen": null,
@@ -307,7 +307,7 @@
       "is_enabled": true,
       "last_error_at": null,
       "last_error_message": null,
-      "last_success_at": "2026-04-25T03:41:01.895373",
+      "last_success_at": "2026-04-25T05:00:48.368586",
       "name": "LDXP IXEN9TKS",
       "products_seen": 0,
       "public_product_count": 0,
@@ -487,21 +487,21 @@
       "status": "disabled"
     },
     {
-      "active_product_count": 0,
+      "active_product_count": 2,
       "affects_publish": false,
       "attempted_in_run": true,
       "base_url": "https://kk.gptchong.com",
       "is_enabled": true,
       "last_error_at": null,
       "last_error_message": null,
-      "last_success_at": "2026-04-25T03:42:20.685213",
+      "last_success_at": "2026-04-25T05:00:40.046302",
       "name": "KK GPTChong",
-      "products_seen": 0,
-      "public_product_count": 0,
-      "run_data_status": "empty_latest",
-      "run_sync_status": "synced_empty",
+      "products_seen": 2,
+      "public_product_count": 2,
+      "run_data_status": "latest",
+      "run_sync_status": "synced",
       "site_key": "kk_gptchong",
-      "status": "empty"
+      "status": "healthy"
     },
     {
       "active_product_count": 9,
@@ -732,7 +732,7 @@
       "is_enabled": true,
       "last_error_at": null,
       "last_error_message": null,
-      "last_success_at": "2026-04-25T03:45:35.523930",
+      "last_success_at": "2026-04-25T05:00:48.003319",
       "name": "LDXP 1K8HXXWV",
       "products_seen": 0,
       "public_product_count": 0,
