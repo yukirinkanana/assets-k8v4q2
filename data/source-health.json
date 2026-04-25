@@ -1,14 +1,13 @@
 {
-  "abnormal_site_count": 1,
-  "attempted_site_count": 8,
+  "abnormal_site_count": 0,
+  "attempted_site_count": 1,
   "counts_by_status": {
-    "blocked": 1,
     "disabled": 5,
     "empty": 2,
-    "healthy": 50,
+    "healthy": 51,
     "outage": 1
   },
-  "generated_at": "2026-04-25T14:25:30.262143+00:00",
+  "generated_at": "2026-04-25T14:26:56.691973+00:00",
   "site_count": 59,
   "sites": [
     {
@@ -167,7 +166,7 @@
     {
       "active_product_count": 0,
       "affects_publish": false,
-      "attempted_in_run": true,
+      "attempted_in_run": false,
       "base_url": "https://pay.ldxp.cn/shop/sam_altman",
       "is_enabled": false,
       "last_error_at": null,
@@ -176,8 +175,8 @@
       "name": "LDXP Sam Altman",
       "products_seen": null,
       "public_product_count": 0,
-      "run_data_status": "disabled",
-      "run_sync_status": "disabled",
+      "run_data_status": null,
+      "run_sync_status": null,
       "site_key": "ldxp_sam_altman",
       "status": "disabled"
     },
@@ -218,7 +217,7 @@
     {
       "active_product_count": 0,
       "affects_publish": false,
-      "attempted_in_run": true,
+      "attempted_in_run": false,
       "base_url": "https://pay.ldxp.cn/shop/jsonplus/iu0xjh",
       "is_enabled": false,
       "last_error_at": null,
@@ -227,8 +226,8 @@
       "name": "LDXP JsonPlus IU0XJH",
       "products_seen": null,
       "public_product_count": 0,
-      "run_data_status": "disabled",
-      "run_sync_status": "disabled",
+      "run_data_status": null,
+      "run_sync_status": null,
       "site_key": "ldxp_jsonplus_iu0xjh",
       "status": "disabled"
     },
@@ -269,7 +268,7 @@
     {
       "active_product_count": 0,
       "affects_publish": false,
-      "attempted_in_run": true,
+      "attempted_in_run": false,
       "base_url": "https://pay.ldxp.cn/shop/NOAI",
       "is_enabled": false,
       "last_error_at": null,
@@ -278,8 +277,8 @@
       "name": "LDXP NOAI",
       "products_seen": null,
       "public_product_count": 0,
-      "run_data_status": "disabled",
-      "run_sync_status": "disabled",
+      "run_data_status": null,
+      "run_sync_status": null,
       "site_key": "ldxp_noai",
       "status": "disabled"
     },
@@ -388,7 +387,7 @@
     {
       "active_product_count": 0,
       "affects_publish": false,
-      "attempted_in_run": true,
+      "attempted_in_run": false,
       "base_url": "https://aifk.opensora.de",
       "is_enabled": false,
       "last_error_at": null,
@@ -397,8 +396,8 @@
       "name": "AIFK OpenSora",
       "products_seen": null,
       "public_product_count": 0,
-      "run_data_status": "disabled",
-      "run_sync_status": "disabled",
+      "run_data_status": null,
+      "run_sync_status": null,
       "site_key": "aifk_opensora",
       "status": "disabled"
     },
@@ -473,7 +472,7 @@
     {
       "active_product_count": 0,
       "affects_publish": false,
-      "attempted_in_run": true,
+      "attempted_in_run": false,
       "base_url": "https://ferrigpt.asia",
       "is_enabled": false,
       "last_error_at": "2026-04-25T03:04:05.574656",
@@ -482,8 +481,8 @@
       "name": "FerriGPT",
       "products_seen": null,
       "public_product_count": 0,
-      "run_data_status": "disabled",
-      "run_sync_status": "disabled",
+      "run_data_status": null,
+      "run_sync_status": null,
       "site_key": "ferrigpt",
       "status": "disabled"
     },
@@ -574,20 +573,20 @@
     },
     {
       "active_product_count": 8,
-      "affects_publish": true,
-      "attempted_in_run": false,
+      "affects_publish": false,
+      "attempted_in_run": true,
       "base_url": "https://pay.ldxp.cn/shop/GDU5JC5Q",
       "is_enabled": true,
-      "last_error_at": "2026-04-25T14:19:56.921745",
-      "last_error_message": "Server error '500 Internal Server Error' for url 'https://pay.ldxp.cn/shopApi/Shop/goodsList'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/500",
-      "last_success_at": "2026-04-25T13:52:22.437729",
+      "last_error_at": null,
+      "last_error_message": null,
+      "last_success_at": "2026-04-25T14:26:38.798311",
       "name": "LDXP GDU5JC5Q",
-      "products_seen": null,
+      "products_seen": 8,
       "public_product_count": 8,
-      "run_data_status": null,
-      "run_sync_status": null,
+      "run_data_status": "latest",
+      "run_sync_status": "synced",
       "site_key": "ldxp_gdu5jc5q",
-      "status": "blocked"
+      "status": "healthy"
     },
     {
       "active_product_count": 0,
@@ -677,17 +676,17 @@
     {
       "active_product_count": 9,
       "affects_publish": false,
-      "attempted_in_run": true,
+      "attempted_in_run": false,
       "base_url": "https://pay.ldxp.cn/shop/TSW7DIEI",
       "is_enabled": true,
       "last_error_at": null,
       "last_error_message": null,
       "last_success_at": "2026-04-25T14:25:28.539616",
       "name": "LDXP TSW7DIEI",
-      "products_seen": 9,
+      "products_seen": null,
       "public_product_count": 9,
-      "run_data_status": "latest",
-      "run_sync_status": "synced",
+      "run_data_status": null,
+      "run_sync_status": null,
       "site_key": "ldxp_tsw7diei",
       "status": "healthy"
     },
@@ -728,17 +727,17 @@
     {
       "active_product_count": 0,
       "affects_publish": false,
-      "attempted_in_run": true,
+      "attempted_in_run": false,
       "base_url": "https://pay.ldxp.cn/shop/1K8HXXWV",
       "is_enabled": true,
       "last_error_at": null,
       "last_error_message": null,
       "last_success_at": "2026-04-25T14:24:57.163279",
       "name": "LDXP 1K8HXXWV",
-      "products_seen": 0,
+      "products_seen": null,
       "public_product_count": 0,
-      "run_data_status": "empty_latest",
-      "run_sync_status": "synced_empty",
+      "run_data_status": null,
+      "run_sync_status": null,
       "site_key": "ldxp_1k8hxxwv",
       "status": "empty"
     },
@@ -762,17 +761,17 @@
     {
       "active_product_count": 2,
       "affects_publish": false,
-      "attempted_in_run": true,
+      "attempted_in_run": false,
       "base_url": "https://pay.ldxp.cn/shop/Lemon.watermelon",
       "is_enabled": true,
       "last_error_at": null,
       "last_error_message": null,
       "last_success_at": "2026-04-25T14:25:01.463180",
       "name": "LDXP Lemon Watermelon",
-      "products_seen": 2,
+      "products_seen": null,
       "public_product_count": 2,
-      "run_data_status": "latest",
-      "run_sync_status": "synced",
+      "run_data_status": null,
+      "run_sync_status": null,
       "site_key": "ldxp_lemon_watermelon",
       "status": "healthy"
     },
@@ -1015,7 +1014,7 @@
       "status": "healthy"
     }
   ],
-  "sync_finished_at": "2026-04-25T14:25:28.551259+00:00",
-  "sync_run_id": "ac2eae1e49e93840",
-  "sync_started_at": "2026-04-25T14:23:41.547361+00:00"
+  "sync_finished_at": "2026-04-25T14:26:38.810398+00:00",
+  "sync_run_id": "3c507df726c2d72d",
+  "sync_started_at": "2026-04-25T14:26:00.388307+00:00"
 }
