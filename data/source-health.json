@@ -7,7 +7,7 @@
     "healthy": 43,
     "outage": 1
   },
-  "generated_at": "2026-04-25T03:47:37.578627+00:00",
+  "generated_at": "2026-04-25T04:57:39.045500+00:00",
   "site_count": 52,
   "sites": [
     {
@@ -38,7 +38,7 @@
       "last_success_at": "2026-04-24T18:14:05.525182",
       "name": "Go365 Card",
       "products_seen": null,
-      "public_product_count": 0,
+      "public_product_count": 11,
       "run_data_status": "stale_snapshot",
       "run_sync_status": "transport_error",
       "site_key": "go365",
