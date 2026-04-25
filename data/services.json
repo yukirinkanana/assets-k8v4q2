@@ -20,26 +20,26 @@
   {
     "key": "email",
     "label": "邮箱",
-    "partition_count": 44,
+    "partition_count": 45,
     "unclassified_count": 0
   },
   {
     "key": "gemini",
     "label": "Gemini",
-    "partition_count": 68,
+    "partition_count": 73,
     "unclassified_count": 11
   },
   {
     "key": "grok",
     "label": "Grok",
-    "partition_count": 26,
+    "partition_count": 28,
     "unclassified_count": 8
   },
   {
     "key": "other",
     "label": "Other",
     "partition_count": 0,
-    "unclassified_count": 23
+    "unclassified_count": 30
   },
   {
     "key": "phone_verification",
@@ -50,7 +50,7 @@
   {
     "key": "virtual_card",
     "label": "虚拟卡",
-    "partition_count": 5,
+    "partition_count": 6,
     "unclassified_count": 0
   }
 ]
