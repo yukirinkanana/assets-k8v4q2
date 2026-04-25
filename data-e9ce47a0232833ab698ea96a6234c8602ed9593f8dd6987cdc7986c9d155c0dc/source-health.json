@@ -6,7 +6,7 @@
     "empty": 3,
     "healthy": 51
   },
-  "generated_at": "2026-04-25T16:57:41.608440+00:00",
+  "generated_at": "2026-04-25T17:00:16.097117+00:00",
   "site_count": 59,
   "sites": [
     {
@@ -114,17 +114,17 @@
     {
       "active_product_count": 16,
       "affects_publish": false,
-      "attempted_in_run": true,
+      "attempted_in_run": false,
       "base_url": "https://pay.ldxp.cn/shop/gugu",
       "is_enabled": true,
       "last_error_at": null,
       "last_error_message": null,
       "last_success_at": "2026-04-25T16:56:49.741385",
       "name": "LDXP Gugu",
-      "products_seen": 16,
+      "products_seen": null,
       "public_product_count": 16,
-      "run_data_status": "latest",
-      "run_sync_status": "synced",
+      "run_data_status": null,
+      "run_sync_status": null,
       "site_key": "ldxp_gugu",
       "status": "healthy"
     },
@@ -165,7 +165,7 @@
     {
       "active_product_count": 0,
       "affects_publish": false,
-      "attempted_in_run": false,
+      "attempted_in_run": true,
       "base_url": "https://pay.ldxp.cn/shop/sam_altman",
       "is_enabled": false,
       "last_error_at": null,
@@ -174,8 +174,8 @@
       "name": "LDXP Sam Altman",
       "products_seen": null,
       "public_product_count": 0,
-      "run_data_status": null,
-      "run_sync_status": null,
+      "run_data_status": "disabled",
+      "run_sync_status": "disabled",
       "site_key": "ldxp_sam_altman",
       "status": "disabled"
     },
@@ -216,7 +216,7 @@
     {
       "active_product_count": 0,
       "affects_publish": false,
-      "attempted_in_run": false,
+      "attempted_in_run": true,
       "base_url": "https://pay.ldxp.cn/shop/jsonplus/iu0xjh",
       "is_enabled": false,
       "last_error_at": null,
@@ -225,8 +225,8 @@
       "name": "LDXP JsonPlus IU0XJH",
       "products_seen": null,
       "public_product_count": 0,
-      "run_data_status": null,
-      "run_sync_status": null,
+      "run_data_status": "disabled",
+      "run_sync_status": "disabled",
       "site_key": "ldxp_jsonplus_iu0xjh",
       "status": "disabled"
     },
@@ -743,17 +743,17 @@
     {
       "active_product_count": 5,
       "affects_publish": false,
-      "attempted_in_run": true,
+      "attempted_in_run": false,
       "base_url": "https://pay.ldxp.cn/shop/RXKT7LFX",
       "is_enabled": true,
       "last_error_at": null,
       "last_error_message": null,
       "last_success_at": "2026-04-25T16:57:23.962992",
       "name": "LDXP RXKT7LFX",
-      "products_seen": 5,
+      "products_seen": null,
       "public_product_count": 5,
-      "run_data_status": "latest",
-      "run_sync_status": "synced",
+      "run_data_status": null,
+      "run_sync_status": null,
       "site_key": "ldxp_rxkt7lfx",
       "status": "healthy"
     },
@@ -1013,7 +1013,7 @@
       "status": "healthy"
     }
   ],
-  "sync_finished_at": "2026-04-25T16:57:23.967506+00:00",
-  "sync_run_id": "1b2f642420e03285",
-  "sync_started_at": "2026-04-25T16:55:59.437721+00:00"
+  "sync_finished_at": "2026-04-25T17:00:14.557210+00:00",
+  "sync_run_id": "b9ad2815474921ea",
+  "sync_started_at": "2026-04-25T17:00:08.424863+00:00"
 }
