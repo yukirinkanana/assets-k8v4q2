@@ -1,14 +1,14 @@
 {
   "abnormal_site_count": 1,
-  "attempted_site_count": 52,
+  "attempted_site_count": 55,
   "counts_by_status": {
     "disabled": 5,
     "empty": 2,
-    "healthy": 44,
+    "healthy": 47,
     "outage": 1
   },
-  "generated_at": "2026-04-25T05:26:31.411204+00:00",
-  "site_count": 52,
+  "generated_at": "2026-04-25T05:47:14.714427+00:00",
+  "site_count": 55,
   "sites": [
     {
       "active_product_count": 8,
@@ -893,9 +893,60 @@
       "run_sync_status": "synced",
       "site_key": "ldxp_dhxvg4zd",
       "status": "healthy"
+    },
+    {
+      "active_product_count": 10,
+      "affects_publish": false,
+      "attempted_in_run": true,
+      "base_url": "https://google7676.top",
+      "is_enabled": true,
+      "last_error_at": null,
+      "last_error_message": null,
+      "last_success_at": "2026-04-25T05:44:50.905558",
+      "name": "Google7676",
+      "products_seen": 10,
+      "public_product_count": 10,
+      "run_data_status": "latest",
+      "run_sync_status": "synced",
+      "site_key": "google7676",
+      "status": "healthy"
+    },
+    {
+      "active_product_count": 7,
+      "affects_publish": false,
+      "attempted_in_run": true,
+      "base_url": "https://aisou.pro",
+      "is_enabled": true,
+      "last_error_at": null,
+      "last_error_message": null,
+      "last_success_at": "2026-04-25T05:44:53.516974",
+      "name": "AISou",
+      "products_seen": 7,
+      "public_product_count": 7,
+      "run_data_status": "latest",
+      "run_sync_status": "synced",
+      "site_key": "aisou",
+      "status": "healthy"
+    },
+    {
+      "active_product_count": 13,
+      "affects_publish": false,
+      "attempted_in_run": true,
+      "base_url": "https://spark-zone.org",
+      "is_enabled": true,
+      "last_error_at": null,
+      "last_error_message": null,
+      "last_success_at": "2026-04-25T05:45:08.994860",
+      "name": "Spark Zone",
+      "products_seen": 13,
+      "public_product_count": 13,
+      "run_data_status": "latest",
+      "run_sync_status": "synced",
+      "site_key": "spark_zone",
+      "status": "healthy"
     }
   ],
-  "sync_finished_at": "2026-04-25T03:47:04.954123+00:00",
+  "sync_finished_at": "2026-04-25T05:47:03.629066+00:00",
   "sync_run_id": "817d632f31a48837",
   "sync_started_at": "2026-04-25T03:37:43.990347+00:00"
 }
