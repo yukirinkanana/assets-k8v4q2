@@ -20,7 +20,7 @@
   {
     "key": "email",
     "label": "邮箱",
-    "partition_count": 45,
+    "partition_count": 47,
     "unclassified_count": 0
   },
   {
