@@ -15836,7 +15836,7 @@
     "id": 887,
     "last_seen_at": "2026-04-26T03:11:32.192802",
     "last_verified_at": "2026-04-26T03:11:32.192802",
-    "partition_key": "chatgpt|plus|2_months|card_key|recharge|none|unknown|no_warranty",
+    "partition_key": "chatgpt|plus|1_month|card_key|recharge|none|unknown|no_warranty",
     "plan": "plus",
     "price": 61.8,
     "price_fee": 1.8,
@@ -15863,7 +15863,7 @@
     "status": "classified",
     "stock": 0,
     "stock_state": "out_of_stock",
-    "term": "2_months",
+    "term": "1_month",
     "warranty_level": "no_warranty"
   },
   {
