@@ -32,7 +32,7 @@
       "无质保",
       "暂停下单"
     ],
-    "savings_vs_median": -68.0,
+    "savings_vs_median": -67.62,
     "service": "chatgpt",
     "source_health_status": "error",
     "source_last_success_at": "2026-04-28T09:10:20.696924",
@@ -1019,7 +1019,7 @@
     "risk_labels": [
       "无质保"
     ],
-    "savings_vs_median": -16.0,
+    "savings_vs_median": -15.62,
     "service": "chatgpt",
     "source_health_status": "healthy",
     "source_last_success_at": "2026-04-28T14:35:07.262762",
@@ -1534,7 +1534,7 @@
     "risk_labels": [
       "无质保"
     ],
-    "savings_vs_median": 7.0,
+    "savings_vs_median": 7.38,
     "service": "chatgpt",
     "source_health_status": "healthy",
     "source_last_success_at": "2026-04-28T14:52:28.397448",
@@ -2287,11 +2287,12 @@
     "recent_restock": false,
     "region": "unknown",
     "risk_labels": [
+      "源站异常",
       "无质保"
     ],
-    "savings_vs_median": 24.0,
+    "savings_vs_median": 24.38,
     "service": "chatgpt",
-    "source_health_status": "healthy",
+    "source_health_status": "error",
     "source_last_success_at": "2026-04-28T14:32:42.824378",
     "source_product_id": "42",
     "source_site": "AccGood",
@@ -2333,12 +2334,13 @@
     "recent_restock": false,
     "region": "unknown",
     "risk_labels": [
+      "源站异常",
       "无质保",
       "源站直达"
     ],
     "savings_vs_median": -0.04,
     "service": "chatgpt",
-    "source_health_status": "healthy",
+    "source_health_status": "error",
     "source_last_success_at": "2026-04-28T14:32:42.824378",
     "source_product_id": "18",
     "source_site": "AccGood",
@@ -2380,12 +2382,13 @@
     "recent_restock": false,
     "region": "unknown",
     "risk_labels": [
+      "源站异常",
       "无质保",
       "源站直达"
     ],
     "savings_vs_median": 0.07,
     "service": "chatgpt",
-    "source_health_status": "healthy",
+    "source_health_status": "error",
     "source_last_success_at": "2026-04-28T14:32:42.824378",
     "source_product_id": "3",
     "source_site": "AccGood",
@@ -2427,12 +2430,13 @@
     "recent_restock": false,
     "region": "unknown",
     "risk_labels": [
+      "源站异常",
       "无质保",
       "源站直达"
     ],
     "savings_vs_median": 0.0,
     "service": "grok",
-    "source_health_status": "healthy",
+    "source_health_status": "error",
     "source_last_success_at": "2026-04-28T14:32:42.824378",
     "source_product_id": "8",
     "source_site": "AccGood",
@@ -2474,12 +2478,13 @@
     "recent_restock": false,
     "region": "unknown",
     "risk_labels": [
+      "源站异常",
       "无质保",
       "源站直达"
     ],
     "savings_vs_median": 0.0,
     "service": "grok",
-    "source_health_status": "healthy",
+    "source_health_status": "error",
     "source_last_success_at": "2026-04-28T14:32:42.824378",
     "source_product_id": "32",
     "source_site": "AccGood",
@@ -2521,12 +2526,13 @@
     "recent_restock": false,
     "region": "unknown",
     "risk_labels": [
+      "源站异常",
       "无质保",
       "源站直达"
     ],
     "savings_vs_median": -0.1,
     "service": "grok",
-    "source_health_status": "healthy",
+    "source_health_status": "error",
     "source_last_success_at": "2026-04-28T14:32:42.824378",
     "source_product_id": "33",
     "source_site": "AccGood",
@@ -2568,12 +2574,13 @@
     "recent_restock": true,
     "region": "unknown",
     "risk_labels": [
+      "源站异常",
       "无质保",
       "源站直达"
     ],
     "savings_vs_median": 0.32,
     "service": "email",
-    "source_health_status": "healthy",
+    "source_health_status": "error",
     "source_last_success_at": "2026-04-28T14:32:42.824378",
     "source_product_id": "30",
     "source_site": "AccGood",
@@ -2615,12 +2622,13 @@
     "recent_restock": false,
     "region": "unknown",
     "risk_labels": [
+      "源站异常",
       "无质保",
       "源站直达"
     ],
     "savings_vs_median": 4.22,
     "service": "email",
-    "source_health_status": "healthy",
+    "source_health_status": "error",
     "source_last_success_at": "2026-04-28T14:32:42.824378",
     "source_product_id": "12",
     "source_site": "AccGood",
@@ -2706,12 +2714,13 @@
     "recent_restock": false,
     "region": "unknown",
     "risk_labels": [
+      "源站异常",
       "无质保",
       "源站直达"
     ],
     "savings_vs_median": 0.04,
     "service": "chatgpt",
-    "source_health_status": "healthy",
+    "source_health_status": "error",
     "source_last_success_at": "2026-04-28T14:32:42.824378",
     "source_product_id": "23",
     "source_site": "AccGood",
@@ -2736,7 +2745,7 @@
     "freshness_reason": null,
     "freshness_state": "live",
     "id": 138,
-    "last_seen_at": "2026-04-28T14:32:13.527315",
+    "last_seen_at": "2026-04-28T14:56:03.039369",
     "partition_key": "gemini|pro|1_year|account|finished_account|none|unknown|no_warranty",
     "plan": "pro",
     "price": 9.9,
@@ -2759,7 +2768,7 @@
     "savings_vs_median": 7.55,
     "service": "gemini",
     "source_health_status": "healthy",
-    "source_last_success_at": "2026-04-28T14:32:13.634214",
+    "source_last_success_at": "2026-04-28T14:56:03.191190",
     "source_product_id": "16",
     "source_site": "Zhanghao66",
     "source_site_key": "zhanghao66",
@@ -2783,7 +2792,7 @@
     "freshness_reason": null,
     "freshness_state": "live",
     "id": 139,
-    "last_seen_at": "2026-04-28T14:32:13.543490",
+    "last_seen_at": "2026-04-28T14:56:03.061824",
     "partition_key": "gemini|ultra|1_month|fulfillment|seat|none|unknown|1_month",
     "plan": "ultra",
     "price": 75.0,
@@ -2805,7 +2814,7 @@
     "savings_vs_median": null,
     "service": "gemini",
     "source_health_status": "healthy",
-    "source_last_success_at": "2026-04-28T14:32:13.634214",
+    "source_last_success_at": "2026-04-28T14:56:03.191190",
     "source_product_id": "27",
     "source_site": "Zhanghao66",
     "source_site_key": "zhanghao66",
@@ -2829,7 +2838,7 @@
     "freshness_reason": null,
     "freshness_state": "live",
     "id": 140,
-    "last_seen_at": "2026-04-28T14:32:13.536552",
+    "last_seen_at": "2026-04-28T14:56:03.050760",
     "partition_key": "gemini|pro|1_year|fulfillment|recharge|none|unknown|no_warranty",
     "plan": "pro",
     "price": 14.0,
@@ -2852,7 +2861,7 @@
     "savings_vs_median": -2.5,
     "service": "gemini",
     "source_health_status": "healthy",
-    "source_last_success_at": "2026-04-28T14:32:13.634214",
+    "source_last_success_at": "2026-04-28T14:56:03.191190",
     "source_product_id": "31",
     "source_site": "Zhanghao66",
     "source_site_key": "zhanghao66",
@@ -2876,7 +2885,7 @@
     "freshness_reason": null,
     "freshness_state": "live",
     "id": 141,
-    "last_seen_at": "2026-04-28T14:32:13.546491",
+    "last_seen_at": "2026-04-28T14:56:03.064352",
     "partition_key": "gemini|unclassified",
     "plan": "ultra",
     "price": 120.0,
@@ -2900,7 +2909,7 @@
     "savings_vs_median": -100.12,
     "service": "gemini",
     "source_health_status": "healthy",
-    "source_last_success_at": "2026-04-28T14:32:13.634214",
+    "source_last_success_at": "2026-04-28T14:56:03.191190",
     "source_product_id": "36",
     "source_site": "Zhanghao66",
     "source_site_key": "zhanghao66",
@@ -2924,7 +2933,7 @@
     "freshness_reason": null,
     "freshness_state": "live",
     "id": 142,
-    "last_seen_at": "2026-04-28T14:32:13.602879",
+    "last_seen_at": "2026-04-28T14:56:03.138583",
     "partition_key": "gemini|pro|1_month|account|finished_account|none|unknown|no_warranty",
     "plan": "pro",
     "price": 5.4,
@@ -2947,7 +2956,7 @@
     "savings_vs_median": null,
     "service": "gemini",
     "source_health_status": "healthy",
-    "source_last_success_at": "2026-04-28T14:32:13.634214",
+    "source_last_success_at": "2026-04-28T14:56:03.191190",
     "source_product_id": "29",
     "source_site": "Zhanghao66",
     "source_site_key": "zhanghao66",
@@ -2971,7 +2980,7 @@
     "freshness_reason": null,
     "freshness_state": "live",
     "id": 143,
-    "last_seen_at": "2026-04-28T14:32:13.600355",
+    "last_seen_at": "2026-04-28T14:56:03.134037",
     "partition_key": "email|other|unknown|account|email_account|none|unknown|no_warranty",
     "plan": "other",
     "price": 2.8,
@@ -2994,7 +3003,7 @@
     "savings_vs_median": 1.52,
     "service": "email",
     "source_health_status": "healthy",
-    "source_last_success_at": "2026-04-28T14:32:13.634214",
+    "source_last_success_at": "2026-04-28T14:56:03.191190",
     "source_product_id": "25",
     "source_site": "Zhanghao66",
     "source_site_key": "zhanghao66",
@@ -4510,7 +4519,7 @@
     "risk_labels": [
       "无质保"
     ],
-    "savings_vs_median": 36.85,
+    "savings_vs_median": 37.23,
     "service": "chatgpt",
     "source_health_status": "healthy",
     "source_last_success_at": "2026-04-28T14:54:32.730523",
@@ -5014,7 +5023,7 @@
     "risk_labels": [
       "无质保"
     ],
-    "savings_vs_median": 32.5,
+    "savings_vs_median": 32.88,
     "service": "chatgpt",
     "source_health_status": "healthy",
     "source_last_success_at": "2026-04-28T14:52:28.397448",
@@ -5136,7 +5145,7 @@
     "freshness_reason": null,
     "freshness_state": "live",
     "id": 318,
-    "last_seen_at": "2026-04-28T14:32:13.568492",
+    "last_seen_at": "2026-04-28T14:56:03.093688",
     "partition_key": "chatgpt|pro|unknown|fulfillment|recharge|100刀|unknown|no_warranty",
     "plan": "pro",
     "price": 200.0,
@@ -5159,7 +5168,7 @@
     "savings_vs_median": -30.05,
     "service": "chatgpt",
     "source_health_status": "healthy",
-    "source_last_success_at": "2026-04-28T14:32:13.634214",
+    "source_last_success_at": "2026-04-28T14:56:03.191190",
     "source_product_id": "38",
     "source_site": "Zhanghao66",
     "source_site_key": "zhanghao66",
@@ -5202,7 +5211,7 @@
     "risk_labels": [
       "无质保"
     ],
-    "savings_vs_median": -8.0,
+    "savings_vs_median": -7.62,
     "service": "chatgpt",
     "source_health_status": "healthy",
     "source_last_success_at": "2026-04-28T14:47:51.618131",
@@ -5277,7 +5286,7 @@
     "freshness_reason": null,
     "freshness_state": "live",
     "id": 327,
-    "last_seen_at": "2026-04-28T14:32:13.574990",
+    "last_seen_at": "2026-04-28T14:56:03.104454",
     "partition_key": "phone_verification|other|3_months|unknown|unknown|none|us|no_warranty",
     "plan": "other",
     "price": 2.8,
@@ -5300,7 +5309,7 @@
     "savings_vs_median": null,
     "service": "phone_verification",
     "source_health_status": "healthy",
-    "source_last_success_at": "2026-04-28T14:32:13.634214",
+    "source_last_success_at": "2026-04-28T14:56:03.191190",
     "source_product_id": "37",
     "source_site": "Zhanghao66",
     "source_site_key": "zhanghao66",
@@ -5324,7 +5333,7 @@
     "freshness_reason": null,
     "freshness_state": "live",
     "id": 342,
-    "last_seen_at": "2026-04-28T14:32:08.887210",
+    "last_seen_at": "2026-04-28T14:55:52.677980",
     "partition_key": "chatgpt|unclassified",
     "plan": "pro",
     "price": 250.0,
@@ -5347,7 +5356,7 @@
     "savings_vs_median": -227.5,
     "service": "chatgpt",
     "source_health_status": "healthy",
-    "source_last_success_at": "2026-04-28T14:32:09.022927",
+    "source_last_success_at": "2026-04-28T14:55:52.821821",
     "source_product_id": "4",
     "source_site": "KK GPTChong",
     "source_site_key": "kk_gptchong",
@@ -5371,7 +5380,7 @@
     "freshness_reason": null,
     "freshness_state": "live",
     "id": 343,
-    "last_seen_at": "2026-04-28T14:32:08.971135",
+    "last_seen_at": "2026-04-28T14:55:52.700644",
     "partition_key": "chatgpt|unclassified",
     "plan": "pro",
     "price": 160.0,
@@ -5394,7 +5403,7 @@
     "savings_vs_median": -137.5,
     "service": "chatgpt",
     "source_health_status": "healthy",
-    "source_last_success_at": "2026-04-28T14:32:09.022927",
+    "source_last_success_at": "2026-04-28T14:55:52.821821",
     "source_product_id": "5",
     "source_site": "KK GPTChong",
     "source_site_key": "kk_gptchong",
@@ -5418,7 +5427,7 @@
     "freshness_reason": null,
     "freshness_state": "live",
     "id": 344,
-    "last_seen_at": "2026-04-28T14:32:08.990172",
+    "last_seen_at": "2026-04-28T14:55:52.718292",
     "partition_key": "chatgpt|plus|1_month|card_key|recharge|none|unknown|no_warranty",
     "plan": "plus",
     "price": 45.0,
@@ -5437,10 +5446,10 @@
     "risk_labels": [
       "无质保"
     ],
-    "savings_vs_median": -3.0,
+    "savings_vs_median": -2.62,
     "service": "chatgpt",
     "source_health_status": "healthy",
-    "source_last_success_at": "2026-04-28T14:32:09.022927",
+    "source_last_success_at": "2026-04-28T14:55:52.821821",
     "source_product_id": "6",
     "source_site": "KK GPTChong",
     "source_site_key": "kk_gptchong",
@@ -5665,11 +5674,12 @@
     "recent_restock": false,
     "region": "unknown",
     "risk_labels": [
+      "源站异常",
       "无质保"
     ],
     "savings_vs_median": null,
     "service": "chatgpt",
-    "source_health_status": "healthy",
+    "source_health_status": "error",
     "source_last_success_at": "2026-04-28T14:32:42.824378",
     "source_product_id": "44",
     "source_site": "AccGood",
@@ -6364,37 +6374,35 @@
   {
     "account_type": "recharge",
     "category_group": "membership",
-    "checkout_capability": "out_of_stock",
-    "checkout_mode": "paused",
+    "checkout_capability": "ready",
+    "checkout_mode": "native",
     "currency": "CNY",
     "delivery_mode": "card_key",
-    "description": "Plus 月卡 全网最稳渠道\n充值地址： maiai.vip\n批发/有任何问题联系QQ或VX",
+    "description": "Plus 月卡 全网最稳chong渠道\n充值地址： maiai.vip（浏览器打开）\n如遇充值失败是因为后台在补货，过一段时间再充，具体都会在tg/微信通知大家，一般都会有货，如果介意就不要拍避免售后麻烦\n批发/有任何问题联系QQ/TG",
     "freshness_reason": null,
     "freshness_state": "live",
     "id": 474,
-    "last_seen_at": "2026-04-28T14:33:47.879311",
-    "partition_key": "chatgpt|plus|1_month|card_key|recharge|none|unknown|no_warranty",
+    "last_seen_at": "2026-04-28T14:57:46.216661",
+    "partition_key": "chatgpt|plus|1_month|card_key|recharge|none|unknown|has_warranty",
     "plan": "plus",
-    "price": 36.05,
-    "price_fee": 1.05,
-    "price_with_fee": 36.05,
-    "price_without_fee": 35.0,
+    "price": 49.44,
+    "price_fee": 1.44,
+    "price_with_fee": 49.44,
+    "price_without_fee": 48.0,
     "purchase_allowed": true,
     "purchase_blocked_reason": null,
     "quota_group": null,
     "raw_category_name": "Chat GPT",
-    "raw_name": "Chat GPT Plus 月卡卡密",
-    "recent_change_at": null,
+    "raw_name": "Chat GPT Plus 月卡卡密【chong渠道】",
+    "recent_change_at": "2026-04-28T14:57:46.218421",
     "recent_price_drop": false,
-    "recent_restock": false,
+    "recent_restock": true,
     "region": "unknown",
-    "risk_labels": [
-      "无质保"
-    ],
-    "savings_vs_median": 5.95,
+    "risk_labels": [],
+    "savings_vs_median": 50.56,
     "service": "chatgpt",
     "source_health_status": "healthy",
-    "source_last_success_at": "2026-04-28T14:33:47.893560",
+    "source_last_success_at": "2026-04-28T14:57:46.280836",
     "source_product_id": "uiqgar",
     "source_site": "LDXP AICC888",
     "source_site_key": "ldxp_aicc888",
@@ -6402,10 +6410,10 @@
     "source_sync_state": "live",
     "source_url": "https://pay.ldxp.cn/item/uiqgar",
     "status": "classified",
-    "stock": 0,
-    "stock_state": "out_of_stock",
+    "stock": 50,
+    "stock_state": "available",
     "term": "1_month",
-    "warranty_level": "no_warranty"
+    "warranty_level": "has_warranty"
   },
   {
     "account_type": "finished_account",
@@ -6753,7 +6761,7 @@
     "freshness_reason": null,
     "freshness_state": "live",
     "id": 493,
-    "last_seen_at": "2026-04-28T14:33:47.864947",
+    "last_seen_at": "2026-04-28T14:57:46.261619",
     "partition_key": "gemini|pro|1_year|account|finished_account|none|us|3_days",
     "plan": "pro",
     "price": 15.45,
@@ -6765,7 +6773,7 @@
     "quota_group": null,
     "raw_category_name": "Gemini",
     "raw_name": "Pixel Gemini Pro一年成品号 包反重力 包GCP 美区老号",
-    "recent_change_at": "2026-04-28T14:33:47.866964",
+    "recent_change_at": "2026-04-28T14:57:46.262620",
     "recent_price_drop": true,
     "recent_restock": false,
     "region": "us",
@@ -6773,7 +6781,7 @@
     "savings_vs_median": 1.78,
     "service": "gemini",
     "source_health_status": "healthy",
-    "source_last_success_at": "2026-04-28T14:33:47.893560",
+    "source_last_success_at": "2026-04-28T14:57:46.280836",
     "source_product_id": "xw0tx9",
     "source_site": "LDXP AICC888",
     "source_site_key": "ldxp_aicc888",
@@ -6781,7 +6789,7 @@
     "source_sync_state": "live",
     "source_url": "https://pay.ldxp.cn/item/xw0tx9",
     "status": "classified",
-    "stock": 90,
+    "stock": 89,
     "stock_state": "available",
     "term": "1_year",
     "warranty_level": "3_days"
@@ -8378,7 +8386,7 @@
     "freshness_reason": null,
     "freshness_state": "live",
     "id": 586,
-    "last_seen_at": "2026-04-28T14:32:13.554040",
+    "last_seen_at": "2026-04-28T14:56:03.074115",
     "partition_key": "chatgpt|team|unknown|account|finished_account|none|unknown|no_warranty",
     "plan": "team",
     "price": 10.0,
@@ -8401,7 +8409,7 @@
     "savings_vs_median": 0.15,
     "service": "chatgpt",
     "source_health_status": "healthy",
-    "source_last_success_at": "2026-04-28T14:32:13.634214",
+    "source_last_success_at": "2026-04-28T14:56:03.191190",
     "source_product_id": "43",
     "source_site": "Zhanghao66",
     "source_site_key": "zhanghao66",
@@ -8425,7 +8433,7 @@
     "freshness_reason": null,
     "freshness_state": "live",
     "id": 593,
-    "last_seen_at": "2026-04-28T14:32:13.559573",
+    "last_seen_at": "2026-04-28T14:56:03.080987",
     "partition_key": "chatgpt|plus|1_month|fulfillment|recharge|none|unknown|no_warranty",
     "plan": "plus",
     "price": 39.99,
@@ -8447,7 +8455,7 @@
     "savings_vs_median": null,
     "service": "chatgpt",
     "source_health_status": "healthy",
-    "source_last_success_at": "2026-04-28T14:32:13.634214",
+    "source_last_success_at": "2026-04-28T14:56:03.191190",
     "source_product_id": "44",
     "source_site": "Zhanghao66",
     "source_site_key": "zhanghao66",
@@ -8471,7 +8479,7 @@
     "freshness_reason": null,
     "freshness_state": "live",
     "id": 594,
-    "last_seen_at": "2026-04-28T14:32:13.566313",
+    "last_seen_at": "2026-04-28T14:56:03.090556",
     "partition_key": "chatgpt|plus|unknown|account|finished_account|none|unknown|no_warranty",
     "plan": "plus",
     "price": 18.88,
@@ -8494,7 +8502,7 @@
     "savings_vs_median": 7.92,
     "service": "chatgpt",
     "source_health_status": "healthy",
-    "source_last_success_at": "2026-04-28T14:32:13.634214",
+    "source_last_success_at": "2026-04-28T14:56:03.191190",
     "source_product_id": "45",
     "source_site": "Zhanghao66",
     "source_site_key": "zhanghao66",
@@ -8518,7 +8526,7 @@
     "freshness_reason": null,
     "freshness_state": "live",
     "id": 595,
-    "last_seen_at": "2026-04-28T14:32:13.571735",
+    "last_seen_at": "2026-04-28T14:56:03.097874",
     "partition_key": "claude|unclassified",
     "plan": "pro",
     "price": 80.0,
@@ -8540,7 +8548,7 @@
     "savings_vs_median": 19.6,
     "service": "claude",
     "source_health_status": "healthy",
-    "source_last_success_at": "2026-04-28T14:32:13.634214",
+    "source_last_success_at": "2026-04-28T14:56:03.191190",
     "source_product_id": "46",
     "source_site": "Zhanghao66",
     "source_site_key": "zhanghao66",
@@ -8564,7 +8572,7 @@
     "freshness_reason": null,
     "freshness_state": "live",
     "id": 596,
-    "last_seen_at": "2026-04-28T14:32:13.572256",
+    "last_seen_at": "2026-04-28T14:56:03.099888",
     "partition_key": "claude|max|unknown|card_key|recharge|100刀|unknown|3_days",
     "plan": "max",
     "price": 300.0,
@@ -8586,7 +8594,7 @@
     "savings_vs_median": null,
     "service": "claude",
     "source_health_status": "healthy",
-    "source_last_success_at": "2026-04-28T14:32:13.634214",
+    "source_last_success_at": "2026-04-28T14:56:03.191190",
     "source_product_id": "47",
     "source_site": "Zhanghao66",
     "source_site_key": "zhanghao66",
@@ -8610,7 +8618,7 @@
     "freshness_reason": null,
     "freshness_state": "live",
     "id": 601,
-    "last_seen_at": "2026-04-28T14:32:13.564523",
+    "last_seen_at": "2026-04-28T14:56:03.086723",
     "partition_key": "other|unclassified",
     "plan": "other",
     "price": 79.0,
@@ -8634,7 +8642,7 @@
     "savings_vs_median": -59.27,
     "service": "other",
     "source_health_status": "healthy",
-    "source_last_success_at": "2026-04-28T14:32:13.634214",
+    "source_last_success_at": "2026-04-28T14:56:03.191190",
     "source_product_id": "48",
     "source_site": "Zhanghao66",
     "source_site_key": "zhanghao66",
@@ -8658,7 +8666,7 @@
     "freshness_reason": null,
     "freshness_state": "live",
     "id": 608,
-    "last_seen_at": "2026-04-28T14:32:13.574413",
+    "last_seen_at": "2026-04-28T14:56:03.103445",
     "partition_key": "grok|other|unknown|account|finished_account|none|unknown|no_warranty",
     "plan": "other",
     "price": 60.0,
@@ -8680,7 +8688,7 @@
     "savings_vs_median": null,
     "service": "grok",
     "source_health_status": "healthy",
-    "source_last_success_at": "2026-04-28T14:32:13.634214",
+    "source_last_success_at": "2026-04-28T14:56:03.191190",
     "source_product_id": "41",
     "source_site": "Zhanghao66",
     "source_site_key": "zhanghao66",
@@ -8723,7 +8731,7 @@
     "risk_labels": [
       "无质保"
     ],
-    "savings_vs_median": 11.1,
+    "savings_vs_median": 11.48,
     "service": "chatgpt",
     "source_health_status": "healthy",
     "source_last_success_at": "2026-04-28T14:41:46.697012",
@@ -8794,7 +8802,7 @@
     "freshness_reason": null,
     "freshness_state": "live",
     "id": 613,
-    "last_seen_at": "2026-04-28T14:33:47.835633",
+    "last_seen_at": "2026-04-28T14:57:46.234112",
     "partition_key": "chatgpt|pro|1_month|fulfillment|recharge|200刀|unknown|no_warranty",
     "plan": "pro",
     "price": 256.47,
@@ -8806,7 +8814,7 @@
     "quota_group": "200刀",
     "raw_category_name": "Chat GPT",
     "raw_name": "ChatGPT Pro 200美金月卡 无质保 买一个用一个",
-    "recent_change_at": "2026-04-28T14:33:47.835633",
+    "recent_change_at": "2026-04-28T14:57:46.234112",
     "recent_price_drop": false,
     "recent_restock": false,
     "region": "unknown",
@@ -8816,7 +8824,7 @@
     "savings_vs_median": 10.81,
     "service": "chatgpt",
     "source_health_status": "healthy",
-    "source_last_success_at": "2026-04-28T14:33:47.893560",
+    "source_last_success_at": "2026-04-28T14:57:46.280836",
     "source_product_id": "7ds93x",
     "source_site": "LDXP AICC888",
     "source_site_key": "ldxp_aicc888",
@@ -8824,7 +8832,7 @@
     "source_sync_state": "live",
     "source_url": "https://pay.ldxp.cn/item/7ds93x",
     "status": "classified",
-    "stock": 12,
+    "stock": 34,
     "stock_state": "available",
     "term": "1_month",
     "warranty_level": "no_warranty"
@@ -8840,7 +8848,7 @@
     "freshness_reason": null,
     "freshness_state": "live",
     "id": 614,
-    "last_seen_at": "2026-04-28T14:33:47.849217",
+    "last_seen_at": "2026-04-28T14:57:46.248082",
     "partition_key": "chatgpt|pro|1_month|fulfillment|recharge|100刀|unknown|no_warranty",
     "plan": "pro",
     "price": 174.07,
@@ -8852,7 +8860,7 @@
     "quota_group": "100刀",
     "raw_category_name": "Chat GPT",
     "raw_name": "ChatGPT Pro 100美金月卡 无质保 买一个用一个",
-    "recent_change_at": "2026-04-28T14:33:47.849217",
+    "recent_change_at": "2026-04-28T14:57:46.248082",
     "recent_price_drop": false,
     "recent_restock": false,
     "region": "unknown",
@@ -8862,7 +8870,7 @@
     "savings_vs_median": 0.09,
     "service": "chatgpt",
     "source_health_status": "healthy",
-    "source_last_success_at": "2026-04-28T14:33:47.893560",
+    "source_last_success_at": "2026-04-28T14:57:46.280836",
     "source_product_id": "492est",
     "source_site": "LDXP AICC888",
     "source_site_key": "ldxp_aicc888",
@@ -8870,7 +8878,7 @@
     "source_sync_state": "live",
     "source_url": "https://pay.ldxp.cn/item/492est",
     "status": "classified",
-    "stock": 8,
+    "stock": 33,
     "stock_state": "available",
     "term": "1_month",
     "warranty_level": "no_warranty"
@@ -9286,7 +9294,7 @@
     "risk_labels": [
       "无质保"
     ],
-    "savings_vs_median": -3.32,
+    "savings_vs_median": -2.95,
     "service": "chatgpt",
     "source_health_status": "healthy",
     "source_last_success_at": "2026-04-28T14:48:16.072442",
@@ -9653,7 +9661,7 @@
     "risk_labels": [
       "无质保"
     ],
-    "savings_vs_median": -7.32,
+    "savings_vs_median": -6.95,
     "service": "chatgpt",
     "source_health_status": "healthy",
     "source_last_success_at": "2026-04-28T14:50:07.733743",
@@ -9699,7 +9707,7 @@
     "risk_labels": [
       "无质保"
     ],
-    "savings_vs_median": 8.52,
+    "savings_vs_median": 8.9,
     "service": "chatgpt",
     "source_health_status": "healthy",
     "source_last_success_at": "2026-04-28T14:35:29.445562",
@@ -10064,7 +10072,7 @@
     "risk_labels": [
       "无质保"
     ],
-    "savings_vs_median": 16.25,
+    "savings_vs_median": 16.62,
     "service": "chatgpt",
     "source_health_status": "healthy",
     "source_last_success_at": "2026-04-28T14:49:56.944661",
@@ -10335,7 +10343,7 @@
     "risk_labels": [
       "无质保"
     ],
-    "savings_vs_median": 21.4,
+    "savings_vs_median": 21.77,
     "service": "chatgpt",
     "source_health_status": "healthy",
     "source_last_success_at": "2026-04-28T14:47:21.605479",
@@ -11156,7 +11164,7 @@
     "risk_labels": [
       "无质保"
     ],
-    "savings_vs_median": -4.35,
+    "savings_vs_median": -3.98,
     "service": "chatgpt",
     "source_health_status": "healthy",
     "source_last_success_at": "2026-04-28T14:51:10.615805",
@@ -11560,13 +11568,14 @@
     "recent_restock": true,
     "region": "unknown",
     "risk_labels": [
+      "源站异常",
       "待复检",
       "无质保",
       "源站直达"
     ],
     "savings_vs_median": 7.5,
     "service": "chatgpt",
-    "source_health_status": "healthy",
+    "source_health_status": "error",
     "source_last_success_at": "2026-04-28T14:32:42.824378",
     "source_product_id": "46",
     "source_site": "AccGood",
@@ -11608,12 +11617,13 @@
     "recent_restock": true,
     "region": "unknown",
     "risk_labels": [
+      "源站异常",
       "无质保",
       "源站直达"
     ],
     "savings_vs_median": -10.68,
     "service": "email",
-    "source_health_status": "healthy",
+    "source_health_status": "error",
     "source_last_success_at": "2026-04-28T14:32:42.824378",
     "source_product_id": "47",
     "source_site": "AccGood",
@@ -11657,7 +11667,7 @@
     "risk_labels": [
       "无质保"
     ],
-    "savings_vs_median": -0.75,
+    "savings_vs_median": -0.38,
     "service": "chatgpt",
     "source_health_status": "healthy",
     "source_last_success_at": "2026-04-28T14:54:32.730523",
@@ -11979,7 +11989,7 @@
     "risk_labels": [
       "无质保"
     ],
-    "savings_vs_median": 9.04,
+    "savings_vs_median": 9.41,
     "service": "chatgpt",
     "source_health_status": "healthy",
     "source_last_success_at": "2026-04-28T14:39:36.016280",
@@ -12211,7 +12221,7 @@
     "risk_labels": [
       "无质保"
     ],
-    "savings_vs_median": -18.77,
+    "savings_vs_median": -18.4,
     "service": "chatgpt",
     "source_health_status": "healthy",
     "source_last_success_at": "2026-04-28T14:53:30.229971",
@@ -12345,7 +12355,7 @@
     "risk_labels": [
       "无质保"
     ],
-    "savings_vs_median": 9.04,
+    "savings_vs_median": 9.41,
     "service": "chatgpt",
     "source_health_status": "healthy",
     "source_last_success_at": "2026-04-28T14:36:47.015691",
@@ -12441,7 +12451,7 @@
       "下单前校验库存",
       "源站直达"
     ],
-    "savings_vs_median": 17.0,
+    "savings_vs_median": 17.38,
     "service": "chatgpt",
     "source_health_status": "healthy",
     "source_last_success_at": "2026-04-28T14:46:21.922245",
@@ -13459,7 +13469,7 @@
     "risk_labels": [
       "无质保"
     ],
-    "savings_vs_median": 17.0,
+    "savings_vs_median": 17.38,
     "service": "chatgpt",
     "source_health_status": "healthy",
     "source_last_success_at": "2026-04-28T14:45:02.244510",
@@ -13576,7 +13586,7 @@
     "freshness_reason": null,
     "freshness_state": "live",
     "id": 786,
-    "last_seen_at": "2026-04-28T14:32:13.573329",
+    "last_seen_at": "2026-04-28T14:56:03.101913",
     "partition_key": "claude|pro|1_month|fulfillment|recharge|none|unknown|1_month",
     "plan": "pro",
     "price": 150.0,
@@ -13598,7 +13608,7 @@
     "savings_vs_median": null,
     "service": "claude",
     "source_health_status": "healthy",
-    "source_last_success_at": "2026-04-28T14:32:13.634214",
+    "source_last_success_at": "2026-04-28T14:56:03.191190",
     "source_product_id": "49",
     "source_site": "Zhanghao66",
     "source_site_key": "zhanghao66",
@@ -13875,7 +13885,7 @@
     "risk_labels": [
       "无质保"
     ],
-    "savings_vs_median": 16.25,
+    "savings_vs_median": 16.62,
     "service": "chatgpt",
     "source_health_status": "healthy",
     "source_last_success_at": "2026-04-28T14:41:46.697012",
@@ -14101,7 +14111,7 @@
     "risk_labels": [
       "无质保"
     ],
-    "savings_vs_median": -81.6,
+    "savings_vs_median": -81.22,
     "service": "chatgpt",
     "source_health_status": "healthy",
     "source_last_success_at": "2026-04-28T14:41:46.697012",
@@ -14148,7 +14158,7 @@
       "源站异常",
       "无质保"
     ],
-    "savings_vs_median": -17.74,
+    "savings_vs_median": -17.37,
     "service": "chatgpt",
     "source_health_status": "error",
     "source_last_success_at": "2026-04-28T14:30:01.426255",
@@ -14330,7 +14340,7 @@
     "risk_labels": [
       "无质保"
     ],
-    "savings_vs_median": 0.0,
+    "savings_vs_median": 0.38,
     "service": "chatgpt",
     "source_health_status": "healthy",
     "source_last_success_at": "2026-04-28T14:40:03.074883",
@@ -15496,7 +15506,7 @@
     "risk_labels": [
       "无质保"
     ],
-    "savings_vs_median": 2.86,
+    "savings_vs_median": 3.23,
     "service": "chatgpt",
     "source_health_status": "healthy",
     "source_last_success_at": "2026-04-28T14:36:17.134093",
@@ -16197,7 +16207,7 @@
       "下单前校验库存",
       "源站直达"
     ],
-    "savings_vs_median": -6.0,
+    "savings_vs_median": -5.62,
     "service": "chatgpt",
     "source_health_status": "healthy",
     "source_last_success_at": "2026-04-28T14:39:54.864185",
@@ -16335,7 +16345,7 @@
     "risk_labels": [
       "无质保"
     ],
-    "savings_vs_median": 5.95,
+    "savings_vs_median": 6.33,
     "service": "chatgpt",
     "source_health_status": "healthy",
     "source_last_success_at": "2026-04-28T14:36:17.134093",
@@ -16381,7 +16391,7 @@
     "risk_labels": [
       "无质保"
     ],
-    "savings_vs_median": 0.8,
+    "savings_vs_median": 1.17,
     "service": "chatgpt",
     "source_health_status": "healthy",
     "source_last_success_at": "2026-04-28T14:36:17.134093",
@@ -16569,7 +16579,7 @@
     "risk_labels": [
       "无质保"
     ],
-    "savings_vs_median": 17.0,
+    "savings_vs_median": 17.38,
     "service": "chatgpt",
     "source_health_status": "healthy",
     "source_last_success_at": "2026-04-28T14:43:30.759875",
@@ -16665,7 +16675,7 @@
       "下单前校验库存",
       "源站直达"
     ],
-    "savings_vs_median": 1.5,
+    "savings_vs_median": 0.0,
     "service": "chatgpt",
     "source_health_status": "healthy",
     "source_last_success_at": "2026-04-28T14:46:21.922245",
@@ -16968,7 +16978,7 @@
     "freshness_reason": null,
     "freshness_state": "live",
     "id": 914,
-    "last_seen_at": "2026-04-28T14:32:16.979766",
+    "last_seen_at": "2026-04-28T14:56:11.372647",
     "partition_key": "chatgpt|plus|1_month|card_key|recharge|none|unknown|no_warranty",
     "plan": "plus",
     "price": 41.6,
@@ -16987,10 +16997,10 @@
     "risk_labels": [
       "无质保"
     ],
-    "savings_vs_median": 0.4,
+    "savings_vs_median": 0.77,
     "service": "chatgpt",
     "source_health_status": "healthy",
-    "source_last_success_at": "2026-04-28T14:32:16.988809",
+    "source_last_success_at": "2026-04-28T14:56:11.380867",
     "source_product_id": "lu3f46",
     "source_site": "Dtyuedan Aiplus365",
     "source_site_key": "dtyuedan_aiplus365",
@@ -17494,7 +17504,7 @@
     "risk_labels": [
       "无质保"
     ],
-    "savings_vs_median": -4.13,
+    "savings_vs_median": -3.76,
     "service": "chatgpt",
     "source_health_status": "healthy",
     "source_last_success_at": "2026-04-28T14:46:57.019896",
@@ -17679,7 +17689,7 @@
       "源站异常",
       "无质保"
     ],
-    "savings_vs_median": -9.5,
+    "savings_vs_median": -9.12,
     "service": "chatgpt",
     "source_health_status": "error",
     "source_last_success_at": "2026-04-28T14:30:01.426255",
@@ -18103,7 +18113,7 @@
     "risk_labels": [
       "无质保"
     ],
-    "savings_vs_median": 0.8,
+    "savings_vs_median": 1.17,
     "service": "chatgpt",
     "source_health_status": "healthy",
     "source_last_success_at": "2026-04-28T14:36:17.134093",
@@ -18149,7 +18159,7 @@
     "risk_labels": [
       "无质保"
     ],
-    "savings_vs_median": -9.5,
+    "savings_vs_median": -9.12,
     "service": "chatgpt",
     "source_health_status": "healthy",
     "source_last_success_at": "2026-04-28T14:35:38.460793",
@@ -18746,7 +18756,7 @@
     "risk_labels": [
       "无质保"
     ],
-    "savings_vs_median": 2.34,
+    "savings_vs_median": 2.72,
     "service": "chatgpt",
     "source_health_status": "healthy",
     "source_last_success_at": "2026-04-28T14:54:32.730523",
@@ -18795,7 +18805,7 @@
       "无质保",
       "暂停下单"
     ],
-    "savings_vs_median": 35.94,
+    "savings_vs_median": 36.31,
     "service": "chatgpt",
     "source_health_status": "error",
     "source_last_success_at": "2026-04-28T08:18:54.092913",
@@ -19213,7 +19223,7 @@
     "risk_labels": [
       "无质保"
     ],
-    "savings_vs_median": -9.5,
+    "savings_vs_median": -9.12,
     "service": "chatgpt",
     "source_health_status": "healthy",
     "source_last_success_at": "2026-04-28T14:41:46.697012",
@@ -20463,7 +20473,7 @@
     "risk_labels": [
       "无质保"
     ],
-    "savings_vs_median": -9.5,
+    "savings_vs_median": -9.12,
     "service": "chatgpt",
     "source_health_status": "healthy",
     "source_last_success_at": "2026-04-28T14:41:46.697012",
@@ -20509,7 +20519,7 @@
     "risk_labels": [
       "无质保"
     ],
-    "savings_vs_median": -14.65,
+    "savings_vs_median": -14.27,
     "service": "chatgpt",
     "source_health_status": "healthy",
     "source_last_success_at": "2026-04-28T14:44:23.424168",
@@ -20555,7 +20565,7 @@
     "risk_labels": [
       "无质保"
     ],
-    "savings_vs_median": -19.8,
+    "savings_vs_median": -19.42,
     "service": "chatgpt",
     "source_health_status": "healthy",
     "source_last_success_at": "2026-04-28T14:48:11.260552",
@@ -20876,7 +20886,7 @@
       "无质保",
       "暂停下单"
     ],
-    "savings_vs_median": -10.53,
+    "savings_vs_median": -10.16,
     "service": "chatgpt",
     "source_health_status": "error",
     "source_last_success_at": "2026-04-28T08:18:54.092913",
@@ -20903,7 +20913,7 @@
     "freshness_reason": null,
     "freshness_state": "live",
     "id": 1040,
-    "last_seen_at": "2026-04-28T14:32:13.550521",
+    "last_seen_at": "2026-04-28T14:56:03.070980",
     "partition_key": "chatgpt|unclassified",
     "plan": "team",
     "price": 12.0,
@@ -20926,7 +20936,7 @@
     "savings_vs_median": 10.5,
     "service": "chatgpt",
     "source_health_status": "healthy",
-    "source_last_success_at": "2026-04-28T14:32:13.634214",
+    "source_last_success_at": "2026-04-28T14:56:03.191190",
     "source_product_id": "50",
     "source_site": "Zhanghao66",
     "source_site_key": "zhanghao66",
@@ -21061,7 +21071,7 @@
     "risk_labels": [
       "无质保"
     ],
-    "savings_vs_median": 12.13,
+    "savings_vs_median": 12.5,
     "service": "chatgpt",
     "source_health_status": "healthy",
     "source_last_success_at": "2026-04-28T14:44:23.424168",
@@ -22493,7 +22503,7 @@
     "risk_labels": [
       "无质保"
     ],
-    "savings_vs_median": 3.89,
+    "savings_vs_median": 4.27,
     "service": "chatgpt",
     "source_health_status": "healthy",
     "source_last_success_at": "2026-04-28T14:54:32.730523",
@@ -23121,7 +23131,7 @@
     "risk_labels": [
       "无质保"
     ],
-    "savings_vs_median": 8.73,
+    "savings_vs_median": 9.1,
     "service": "chatgpt",
     "source_health_status": "healthy",
     "source_last_success_at": "2026-04-28T14:39:36.016280",
@@ -23167,7 +23177,7 @@
     "risk_labels": [
       "无质保"
     ],
-    "savings_vs_median": 11.1,
+    "savings_vs_median": 11.48,
     "service": "chatgpt",
     "source_health_status": "healthy",
     "source_last_success_at": "2026-04-28T14:41:46.697012",
@@ -23213,7 +23223,7 @@
     "risk_labels": [
       "无质保"
     ],
-    "savings_vs_median": -4.35,
+    "savings_vs_median": -3.98,
     "service": "chatgpt",
     "source_health_status": "healthy",
     "source_last_success_at": "2026-04-28T14:37:03.324471",
@@ -23537,7 +23547,7 @@
       "源站异常",
       "无质保"
     ],
-    "savings_vs_median": -19.8,
+    "savings_vs_median": -19.42,
     "service": "chatgpt",
     "source_health_status": "error",
     "source_last_success_at": "2026-04-28T14:30:01.426255",
@@ -23724,7 +23734,7 @@
     "risk_labels": [
       "无质保"
     ],
-    "savings_vs_median": -8.88,
+    "savings_vs_median": -8.51,
     "service": "chatgpt",
     "source_health_status": "healthy",
     "source_last_success_at": "2026-04-28T14:53:30.229971",
@@ -23770,7 +23780,7 @@
     "risk_labels": [
       "无质保"
     ],
-    "savings_vs_median": -1.26,
+    "savings_vs_median": -0.88,
     "service": "chatgpt",
     "source_health_status": "healthy",
     "source_last_success_at": "2026-04-28T14:53:30.229971",
@@ -23954,7 +23964,7 @@
     "risk_labels": [
       "无质保"
     ],
-    "savings_vs_median": 11.1,
+    "savings_vs_median": 11.48,
     "service": "chatgpt",
     "source_health_status": "healthy",
     "source_last_success_at": "2026-04-28T14:51:10.615805",
@@ -24231,7 +24241,7 @@
       "源站异常",
       "无质保"
     ],
-    "savings_vs_median": -9.5,
+    "savings_vs_median": -9.12,
     "service": "chatgpt",
     "source_health_status": "error",
     "source_last_success_at": "2026-04-28T14:30:01.426255",
@@ -24369,7 +24379,7 @@
     "risk_labels": [
       "无质保"
     ],
-    "savings_vs_median": 13.16,
+    "savings_vs_median": 13.54,
     "service": "chatgpt",
     "source_health_status": "healthy",
     "source_last_success_at": "2026-04-28T14:39:36.016280",
@@ -24556,7 +24566,7 @@
       "源站异常",
       "无质保"
     ],
-    "savings_vs_median": -9.5,
+    "savings_vs_median": -9.12,
     "service": "chatgpt",
     "source_health_status": "error",
     "source_last_success_at": "2026-04-28T14:30:01.426255",
@@ -24602,7 +24612,7 @@
     "risk_labels": [
       "无质保"
     ],
-    "savings_vs_median": -19.8,
+    "savings_vs_median": -19.42,
     "service": "chatgpt",
     "source_health_status": "healthy",
     "source_last_success_at": "2026-04-28T14:39:36.016280",
@@ -26656,7 +26666,7 @@
     "recent_restock": false,
     "region": "unknown",
     "risk_labels": [],
-    "savings_vs_median": -1.5,
+    "savings_vs_median": -3.0,
     "service": "chatgpt",
     "source_health_status": "healthy",
     "source_last_success_at": "2026-04-28T14:41:46.697012",
@@ -26702,7 +26712,7 @@
     "risk_labels": [
       "无质保"
     ],
-    "savings_vs_median": -40.4,
+    "savings_vs_median": -40.03,
     "service": "chatgpt",
     "source_health_status": "healthy",
     "source_last_success_at": "2026-04-28T14:41:46.697012",
