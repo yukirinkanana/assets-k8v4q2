@@ -6,7 +6,7 @@
     "error": 6,
     "healthy": 50
   },
-  "generated_at": "2026-04-28T15:25:10.252664+00:00",
+  "generated_at": "2026-04-28T15:30:18.916291+00:00",
   "site_count": 61,
   "sites": [
     {
@@ -904,7 +904,7 @@
       "last_success_at": "2026-04-28T15:02:02.520880",
       "name": "Google7676",
       "products_seen": null,
-      "public_product_count": 8,
+      "public_product_count": 9,
       "run_data_status": null,
       "run_sync_status": null,
       "site_key": "google7676",
