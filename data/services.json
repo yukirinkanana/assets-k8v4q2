@@ -50,7 +50,7 @@
   {
     "key": "virtual_card",
     "label": "虚拟卡",
-    "partition_count": 7,
+    "partition_count": 6,
     "unclassified_count": 0
   }
 ]
