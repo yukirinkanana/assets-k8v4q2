@@ -2,7 +2,7 @@
   {
     "key": "chatgpt",
     "label": "ChatGPT",
-    "partition_count": 118,
+    "partition_count": 115,
     "unclassified_count": 8
   },
   {
@@ -32,7 +32,7 @@
   {
     "key": "grok",
     "label": "Grok",
-    "partition_count": 23,
+    "partition_count": 21,
     "unclassified_count": 8
   },
   {
