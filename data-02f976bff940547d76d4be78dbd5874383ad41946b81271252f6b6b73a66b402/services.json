@@ -15,7 +15,7 @@
     "key": "cursor",
     "label": "Cursor",
     "partition_count": 4,
-    "unclassified_count": 1
+    "unclassified_count": 2
   },
   {
     "key": "email",
