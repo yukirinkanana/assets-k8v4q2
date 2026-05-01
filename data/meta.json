@@ -1,6 +1,6 @@
 {
   "degraded_product_count": 0,
-  "generated_at": "2026-05-01T19:26:39.467198+00:00",
+  "generated_at": "2026-05-01T19:30:00.605579+00:00",
   "hidden_product_count": 68,
   "live_product_count": 387,
   "omitted_degraded_product_count": 0,
@@ -11,9 +11,9 @@
   ],
   "publish_quality_status": "safe",
   "service_count": 9,
-  "snapshot_hash": "fb6ed82ed0fdc09a70cc32ee0173179db6ba113e3aa6749a26b523dbf7978477",
+  "snapshot_hash": "10202ba2792445b906196212b41b672668a96b2ffe93475ba65d3dbfb06aa30a",
   "source_site_count": 43,
-  "sync_finished_at": "2026-05-01T19:26:37.625922+00:00",
-  "sync_run_id": "b96119ff8aa374f3",
-  "sync_started_at": "2026-05-01T19:23:48.838494+00:00"
+  "sync_finished_at": "2026-05-01T19:29:58.802737+00:00",
+  "sync_run_id": "b66d9bbda7156067",
+  "sync_started_at": "2026-05-01T19:27:24.780285+00:00"
 }
