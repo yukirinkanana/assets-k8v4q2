@@ -20,7 +20,7 @@
   {
     "key": "email",
     "label": "邮箱",
-    "partition_count": 52,
+    "partition_count": 53,
     "unclassified_count": 1
   },
   {
@@ -32,14 +32,14 @@
   {
     "key": "grok",
     "label": "Grok",
-    "partition_count": 24,
+    "partition_count": 23,
     "unclassified_count": 8
   },
   {
     "key": "other",
     "label": "Other",
     "partition_count": 0,
-    "unclassified_count": 30
+    "unclassified_count": 35
   },
   {
     "key": "phone_verification",
