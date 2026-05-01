@@ -8,8 +8,8 @@
   {
     "key": "claude",
     "label": "Claude",
-    "partition_count": 26,
-    "unclassified_count": 13
+    "partition_count": 25,
+    "unclassified_count": 14
   },
   {
     "key": "cursor",
