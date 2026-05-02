@@ -8,7 +8,7 @@
   {
     "key": "claude",
     "label": "Claude",
-    "partition_count": 24,
+    "partition_count": 23,
     "unclassified_count": 11
   },
   {
@@ -20,13 +20,13 @@
   {
     "key": "email",
     "label": "邮箱",
-    "partition_count": 48,
+    "partition_count": 47,
     "unclassified_count": 1
   },
   {
     "key": "gemini",
     "label": "Gemini",
-    "partition_count": 89,
+    "partition_count": 88,
     "unclassified_count": 13
   },
   {
