@@ -1737,7 +1737,7 @@
       "无质保",
       "源站直达"
     ],
-    "savings_vs_median": 3.27,
+    "savings_vs_median": 3.17,
     "service": "email",
     "source_health_status": "healthy",
     "source_last_success_at": "2026-05-08T08:42:45.850076",
@@ -1918,7 +1918,7 @@
     "recent_restock": false,
     "region": "us",
     "risk_labels": [],
-    "savings_vs_median": -0.22,
+    "savings_vs_median": -0.45,
     "service": "gemini",
     "source_health_status": "healthy",
     "source_last_success_at": "2026-05-08T08:44:17.421624",
@@ -1964,7 +1964,7 @@
     "risk_labels": [
       "无质保"
     ],
-    "savings_vs_median": 2.16,
+    "savings_vs_median": 2.06,
     "service": "email",
     "source_health_status": "healthy",
     "source_last_success_at": "2026-05-08T08:44:17.421624",
@@ -2146,7 +2146,7 @@
     "risk_labels": [
       "无质保"
     ],
-    "savings_vs_median": -0.11,
+    "savings_vs_median": -0.21,
     "service": "email",
     "source_health_status": "healthy",
     "source_last_success_at": "2026-05-08T08:44:17.421624",
@@ -2296,6 +2296,98 @@
     "stock": 8,
     "stock_state": "available",
     "term": "4_months",
+    "warranty_level": "no_warranty"
+  },
+  {
+    "account_type": "finished_account",
+    "category_group": "account",
+    "checkout_capability": "source_redirect",
+    "checkout_mode": "source_redirect",
+    "currency": "CNY",
+    "delivery_mode": "account",
+    "description": "pixel渠道美区22-24年 ，gemini pro 一年成品号，包gcp。 1个12.8 ,10个起12.3，20个12，50个11，100个10 网站优惠已配置好，日产800+\n非传统学生认证！目前全网最稳定的一年pro方案！！\n🛑 重要警告（必读）\n账号到手请立即更改2FA，7天后改密码避免风控！！！\n📦 商品说明与售后\n商品内容： 承诺 gemini.google.com 服务已开通 12 个月（有效期误差 1-7 天）。\n售后政策： 包首登3天内有效过期不补，只包gcp，不包反重力，反重力这个软件对网络和 lp 要求极高，在有gcp的情况下，只要你网络和ip够好，基本都能使用\n反重力，请使用反重力工具登录，不要下载最新版本的反重力工具，因为最新版有bug,下载最新版的前两个版本\nhttps://github.com/lbjlaq/Antigravity-Manager/tree/v4.1.28\n发货格式： 账号 ---- 密码 ---- 辅助邮箱---- 2FA链接\n🛠️ 登录教程\n1.登录账号： 使用账号密码登录，选择谷歌身份验证器\n2.使用2fa链接获取验证码，输入进去即可登录\n🛡️ 安全设置指南（建议养号期过后操作）\n请确保账号在干净、稳定的美国 IP 环境下正常使用一段时间后，再执行以下操作：\n登出陌生设备： 管理设备\n添加辅助邮箱： 设置恢复邮箱\n修改 2FA 设置： 管理两步验证（可改为自己的验证器）\n绑定手机号： 绑定手机（建议长期使用绑定）\n修改密码： 更改密码（⚠️切记：最后一步再改密码）",
+    "freshness_reason": null,
+    "freshness_state": "live",
+    "id": 257,
+    "last_seen_at": "2026-05-08T09:01:26.052773",
+    "partition_key": "gemini|pro|1_year|account|finished_account|none|us|has_warranty",
+    "plan": "pro",
+    "price": 12.8,
+    "price_fee": null,
+    "price_with_fee": 12.8,
+    "price_without_fee": 12.8,
+    "purchase_allowed": true,
+    "purchase_blocked_reason": null,
+    "quota_group": null,
+    "raw_category_name": "gemini",
+    "raw_name": "Gemini 3.1pro 12个月pixel成品号 包GCP（美区22-24年账号）",
+    "recent_change_at": "2026-05-08T09:01:26.054290",
+    "recent_price_drop": false,
+    "recent_restock": false,
+    "region": "us",
+    "risk_labels": [
+      "源站直达"
+    ],
+    "savings_vs_median": 2.2,
+    "service": "gemini",
+    "source_health_status": "healthy",
+    "source_last_success_at": "2026-05-08T09:01:26.230118",
+    "source_product_id": "1",
+    "source_site": "Gmail6868",
+    "source_site_key": "gmail6868",
+    "source_site_url": "https://gmail6868.com",
+    "source_sync_state": "live",
+    "source_url": "https://gmail6868.com/?post=1",
+    "status": "classified",
+    "stock": 148,
+    "stock_state": "available",
+    "term": "1_year",
+    "warranty_level": "has_warranty"
+  },
+  {
+    "account_type": "recharge",
+    "category_group": "membership",
+    "checkout_capability": "out_of_stock",
+    "checkout_mode": "paused",
+    "currency": "CNY",
+    "delivery_mode": "card_key",
+    "description": "ChatGPT Pro 200刀月卡 自助充值卡密一个月\n新老号可用，Token自助充值，拍下后自动发送CDK和充值网址\n注意： 无任何质保",
+    "freshness_reason": null,
+    "freshness_state": "live",
+    "id": 264,
+    "last_seen_at": "2026-05-08T09:01:48.814861",
+    "partition_key": "chatgpt|pro|1_month|fulfillment|recharge|200刀|unknown|no_warranty",
+    "plan": "pro",
+    "price": 226.6,
+    "price_fee": 6.6,
+    "price_with_fee": 226.6,
+    "price_without_fee": 220.0,
+    "purchase_allowed": true,
+    "purchase_blocked_reason": null,
+    "quota_group": "200刀",
+    "raw_category_name": "GPT月卡",
+    "raw_name": "ChatGPT Pro 200刀月卡",
+    "recent_change_at": null,
+    "recent_price_drop": false,
+    "recent_restock": false,
+    "region": "unknown",
+    "risk_labels": [
+      "无质保"
+    ],
+    "savings_vs_median": 0.0,
+    "service": "chatgpt",
+    "source_health_status": "healthy",
+    "source_last_success_at": "2026-05-08T09:01:48.833452",
+    "source_product_id": "gm8t5t",
+    "source_site": "LDXP 66AI",
+    "source_site_key": "ldxp_66ai",
+    "source_site_url": "https://pay.ldxp.cn/shop/66ai",
+    "source_sync_state": "live",
+    "source_url": "https://pay.ldxp.cn/item/gm8t5t",
+    "status": "classified",
+    "stock": 0,
+    "stock_state": "out_of_stock",
+    "term": "1_month",
     "warranty_level": "no_warranty"
   },
   {
@@ -2790,7 +2882,7 @@
     "risk_labels": [
       "无质保"
     ],
-    "savings_vs_median": 4.01,
+    "savings_vs_median": 3.91,
     "service": "email",
     "source_health_status": "healthy",
     "source_last_success_at": "2026-05-08T08:44:17.421624",
@@ -2973,7 +3065,7 @@
     "risk_labels": [
       "无质保"
     ],
-    "savings_vs_median": -1022.89,
+    "savings_vs_median": -1023.0,
     "service": "email",
     "source_health_status": "healthy",
     "source_last_success_at": "2026-05-08T08:44:17.421624",
@@ -4181,7 +4273,7 @@
     "risk_labels": [
       "无质保"
     ],
-    "savings_vs_median": 110.6,
+    "savings_vs_median": 35.41,
     "service": "chatgpt",
     "source_health_status": "healthy",
     "source_last_success_at": "2026-05-08T08:50:43.045840",
@@ -4271,7 +4363,7 @@
     "risk_labels": [
       "无质保"
     ],
-    "savings_vs_median": 5.04,
+    "savings_vs_median": 4.94,
     "service": "email",
     "source_health_status": "healthy",
     "source_last_success_at": "2026-05-08T08:55:02.336795",
@@ -4363,7 +4455,7 @@
     "risk_labels": [
       "无质保"
     ],
-    "savings_vs_median": 30.9,
+    "savings_vs_median": 10.3,
     "service": "chatgpt",
     "source_health_status": "healthy",
     "source_last_success_at": "2026-05-08T08:49:30.263327",
@@ -5225,7 +5317,7 @@
     "risk_labels": [
       "无质保"
     ],
-    "savings_vs_median": -0.11,
+    "savings_vs_median": -0.21,
     "service": "email",
     "source_health_status": "healthy",
     "source_last_success_at": "2026-05-08T08:53:05.512931",
@@ -5544,7 +5636,7 @@
     "risk_labels": [
       "无质保"
     ],
-    "savings_vs_median": -30.9,
+    "savings_vs_median": -51.5,
     "service": "chatgpt",
     "source_health_status": "healthy",
     "source_last_success_at": "2026-05-08T08:52:54.980894",
@@ -5774,7 +5866,7 @@
     "recent_restock": false,
     "region": "us",
     "risk_labels": [],
-    "savings_vs_median": -45.55,
+    "savings_vs_median": -45.77,
     "service": "gemini",
     "source_health_status": "healthy",
     "source_last_success_at": "2026-05-08T08:52:54.980894",
@@ -6922,7 +7014,7 @@
       "下单前校验库存",
       "源站直达"
     ],
-    "savings_vs_median": -4.78,
+    "savings_vs_median": -5.0,
     "service": "gemini",
     "source_health_status": "healthy",
     "source_last_success_at": "2026-05-08T08:50:07.923509",
@@ -7853,7 +7945,7 @@
     "risk_labels": [
       "源站直达"
     ],
-    "savings_vs_median": 0.22,
+    "savings_vs_median": 0.0,
     "service": "gemini",
     "source_health_status": "healthy",
     "source_last_success_at": "2026-05-08T08:57:30.912955",
@@ -8221,7 +8313,7 @@
     "risk_labels": [
       "无质保"
     ],
-    "savings_vs_median": -0.93,
+    "savings_vs_median": -1.03,
     "service": "email",
     "source_health_status": "healthy",
     "source_last_success_at": "2026-05-08T08:53:05.512931",
@@ -8360,7 +8452,7 @@
     "risk_labels": [
       "无质保"
     ],
-    "savings_vs_median": -5.04,
+    "savings_vs_median": -5.15,
     "service": "email",
     "source_health_status": "healthy",
     "source_last_success_at": "2026-05-08T08:55:45.943852",
@@ -8452,7 +8544,7 @@
     "risk_labels": [
       "无质保"
     ],
-    "savings_vs_median": 0.1,
+    "savings_vs_median": 0.0,
     "service": "email",
     "source_health_status": "healthy",
     "source_last_success_at": "2026-05-08T08:55:45.943852",
@@ -9237,7 +9329,7 @@
     "risk_labels": [
       "无质保"
     ],
-    "savings_vs_median": 1.43,
+    "savings_vs_median": 1.33,
     "service": "email",
     "source_health_status": "healthy",
     "source_last_success_at": "2026-05-08T08:51:42.384337",
@@ -10170,6 +10262,52 @@
     "warranty_level": "has_warranty"
   },
   {
+    "account_type": "unknown",
+    "category_group": "membership",
+    "checkout_capability": "out_of_stock",
+    "checkout_mode": "paused",
+    "currency": "CNY",
+    "delivery_mode": "card_key",
+    "description": "plus会员无质保，有问题联系售后处理",
+    "freshness_reason": null,
+    "freshness_state": "live",
+    "id": 1217,
+    "last_seen_at": "2026-05-08T09:02:07.950491",
+    "partition_key": "chatgpt|plus|1_month|card_key|unknown|none|unknown|no_warranty",
+    "plan": "plus",
+    "price": 8.24,
+    "price_fee": 0.24,
+    "price_with_fee": 8.24,
+    "price_without_fee": 8.0,
+    "purchase_allowed": true,
+    "purchase_blocked_reason": null,
+    "quota_group": null,
+    "raw_category_name": "gpt",
+    "raw_name": "plus 会员无质保",
+    "recent_change_at": null,
+    "recent_price_drop": false,
+    "recent_restock": false,
+    "region": "unknown",
+    "risk_labels": [
+      "无质保"
+    ],
+    "savings_vs_median": 35.93,
+    "service": "chatgpt",
+    "source_health_status": "healthy",
+    "source_last_success_at": "2026-05-08T09:02:07.958708",
+    "source_product_id": "oaycmo",
+    "source_site": "LDXP PY0LZKD2",
+    "source_site_key": "ldxp_py0lzkd2",
+    "source_site_url": "https://pay.ldxp.cn/shop/PY0LZKD2",
+    "source_sync_state": "live",
+    "source_url": "https://pay.ldxp.cn/item/oaycmo",
+    "status": "classified",
+    "stock": 0,
+    "stock_state": "out_of_stock",
+    "term": "1_month",
+    "warranty_level": "no_warranty"
+  },
+  {
     "account_type": "finished_account",
     "category_group": "account",
     "checkout_capability": "ready",
@@ -10197,7 +10335,7 @@
     "recent_restock": false,
     "region": "us",
     "risk_labels": [],
-    "savings_vs_median": 1.83,
+    "savings_vs_median": 1.61,
     "service": "gemini",
     "source_health_status": "healthy",
     "source_last_success_at": "2026-05-08T08:44:17.421624",
@@ -10789,7 +10927,7 @@
     "risk_labels": [
       "无质保"
     ],
-    "savings_vs_median": -0.63,
+    "savings_vs_median": -0.73,
     "service": "email",
     "source_health_status": "healthy",
     "source_last_success_at": "2026-05-08T08:56:34.965926",
@@ -11301,7 +11439,7 @@
     "risk_labels": [
       "无质保"
     ],
-    "savings_vs_median": 0.3,
+    "savings_vs_median": 0.2,
     "service": "email",
     "source_health_status": "healthy",
     "source_last_success_at": "2026-05-08T08:56:34.965926",
@@ -11863,7 +12001,7 @@
     "risk_labels": [
       "无质保"
     ],
-    "savings_vs_median": 75.19,
+    "savings_vs_median": 0.0,
     "service": "chatgpt",
     "source_health_status": "healthy",
     "source_last_success_at": "2026-05-08T08:44:50.922215",
@@ -11909,7 +12047,7 @@
     "risk_labels": [
       "无质保"
     ],
-    "savings_vs_median": -75.19,
+    "savings_vs_median": -150.38,
     "service": "chatgpt",
     "source_health_status": "healthy",
     "source_last_success_at": "2026-05-08T08:44:50.922215",
@@ -11955,7 +12093,7 @@
     "risk_labels": [
       "无质保"
     ],
-    "savings_vs_median": -219.39,
+    "savings_vs_median": -294.58,
     "service": "chatgpt",
     "source_health_status": "healthy",
     "source_last_success_at": "2026-05-08T08:44:50.922215",
@@ -12047,7 +12185,7 @@
     "risk_labels": [
       "无质保"
     ],
-    "savings_vs_median": -1.35,
+    "savings_vs_median": -1.45,
     "service": "email",
     "source_health_status": "healthy",
     "source_last_success_at": "2026-05-08T08:44:50.922215",
@@ -12271,7 +12409,7 @@
     "recent_restock": false,
     "region": "us",
     "risk_labels": [],
-    "savings_vs_median": 2.22,
+    "savings_vs_median": 2.0,
     "service": "gemini",
     "source_health_status": "healthy",
     "source_last_success_at": "2026-05-08T08:57:30.912955",
@@ -15527,5 +15665,52 @@
     "stock_state": "out_of_stock",
     "term": "unknown",
     "warranty_level": "1_hour"
+  },
+  {
+    "account_type": "email_account",
+    "category_group": "email",
+    "checkout_capability": "source_redirect",
+    "checkout_mode": "source_redirect",
+    "currency": "CNY",
+    "delivery_mode": "account",
+    "description": "Gmail有限长期接码 8.14到期 无售后,看清楚再下单，10个2.5,20个2.4，50个2.3，网站优已配置",
+    "freshness_reason": null,
+    "freshness_state": "live",
+    "id": 1461,
+    "last_seen_at": "2026-05-08T09:01:26.197033",
+    "partition_key": "email|other|unknown|account|email_account|none|unknown|no_warranty",
+    "plan": "other",
+    "price": 2.7,
+    "price_fee": null,
+    "price_with_fee": 2.7,
+    "price_without_fee": 2.7,
+    "purchase_allowed": true,
+    "purchase_blocked_reason": null,
+    "quota_group": null,
+    "raw_category_name": "gemini",
+    "raw_name": "Gmail有限专用长期接码 8月14号到期 无售后，无售后",
+    "recent_change_at": null,
+    "recent_price_drop": false,
+    "recent_restock": false,
+    "region": "unknown",
+    "risk_labels": [
+      "无质保",
+      "源站直达"
+    ],
+    "savings_vs_median": 3.27,
+    "service": "email",
+    "source_health_status": "healthy",
+    "source_last_success_at": "2026-05-08T09:01:26.230118",
+    "source_product_id": "5",
+    "source_site": "Gmail6868",
+    "source_site_key": "gmail6868",
+    "source_site_url": "https://gmail6868.com",
+    "source_sync_state": "live",
+    "source_url": "https://gmail6868.com/?post=5",
+    "status": "classified",
+    "stock": 69,
+    "stock_state": "available",
+    "term": "unknown",
+    "warranty_level": "no_warranty"
   }
 ]
