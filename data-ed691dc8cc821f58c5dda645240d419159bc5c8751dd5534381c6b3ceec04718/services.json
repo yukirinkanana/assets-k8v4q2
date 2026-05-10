@@ -2,7 +2,7 @@
   {
     "key": "chatgpt",
     "label": "ChatGPT",
-    "partition_count": 115,
+    "partition_count": 113,
     "unclassified_count": 24
   },
   {
@@ -20,7 +20,7 @@
   {
     "key": "email",
     "label": "邮箱",
-    "partition_count": 51,
+    "partition_count": 49,
     "unclassified_count": 1
   },
   {
