@@ -1,12 +1,12 @@
 {
-  "abnormal_site_count": 20,
+  "abnormal_site_count": 21,
   "attempted_site_count": 8,
   "counts_by_status": {
     "disabled": 5,
-    "error": 20,
-    "healthy": 45
+    "error": 21,
+    "healthy": 44
   },
-  "generated_at": "2026-05-17T22:50:28.636552+00:00",
+  "generated_at": "2026-05-17T22:51:25.867393+00:00",
   "site_count": 70,
   "sites": [
     {
@@ -68,7 +68,7 @@
       "is_enabled": true,
       "last_error_at": null,
       "last_error_message": null,
-      "last_success_at": "2026-05-17T22:50:26.698416",
+      "last_success_at": "2026-05-17T22:51:23.274397",
       "name": "QXVX JYKGUAEK",
       "products_seen": 20,
       "public_product_count": 20,
@@ -321,7 +321,7 @@
       "attempted_in_run": true,
       "base_url": "https://pay.ldxp.cn/shop/BT5B4JQA",
       "is_enabled": true,
-      "last_error_at": "2026-05-17T22:49:37.993329",
+      "last_error_at": "2026-05-17T22:50:28.010528",
       "last_error_message": "partial source snapshot guarded: fetched 0 of 8 active products",
       "last_success_at": "2026-04-30T07:12:24.268170",
       "name": "LDXP BT5B4JQA",
@@ -440,7 +440,7 @@
       "attempted_in_run": false,
       "base_url": "https://pay.ldxp.cn/shop/I1R9BRL1",
       "is_enabled": true,
-      "last_error_at": "2026-05-17T22:31:53.552089",
+      "last_error_at": "2026-05-17T22:51:18.244812",
       "last_error_message": "partial source snapshot guarded: fetched 1 of 7 active products",
       "last_success_at": "2026-05-10T16:30:36.093059",
       "name": "LDXP I1R9BRL1",
@@ -453,7 +453,7 @@
     },
     {
       "active_product_count": 29,
-      "affects_publish": false,
+      "affects_publish": true,
       "attempted_in_run": true,
       "base_url": "https://pay.ldxp.cn/shop/WOXP888",
       "is_enabled": true,
@@ -461,12 +461,12 @@
       "last_error_message": "timed out after 90s",
       "last_success_at": "2026-05-17T22:48:56.327591",
       "name": "LDXP WOXP888",
-      "products_seen": 29,
+      "products_seen": null,
       "public_product_count": 29,
-      "run_data_status": "latest",
-      "run_sync_status": "synced",
+      "run_data_status": "stale_snapshot",
+      "run_sync_status": "timeout",
       "site_key": "ldxp_woxp888",
-      "status": "healthy"
+      "status": "error"
     },
     {
       "active_product_count": 0,
@@ -697,7 +697,7 @@
       "is_enabled": true,
       "last_error_at": null,
       "last_error_message": null,
-      "last_success_at": "2026-05-17T22:33:17.976983",
+      "last_success_at": "2026-05-17T22:51:01.805403",
       "name": "Miku88",
       "products_seen": null,
       "public_product_count": 4,
@@ -1003,7 +1003,7 @@
       "is_enabled": true,
       "last_error_at": null,
       "last_error_message": null,
-      "last_success_at": "2026-05-17T22:32:47.177553",
+      "last_success_at": "2026-05-17T22:50:54.590211",
       "name": "AICTK",
       "products_seen": null,
       "public_product_count": 9,
@@ -1200,7 +1200,7 @@
       "status": "healthy"
     }
   ],
-  "sync_finished_at": "2026-05-17T22:50:26.707447+00:00",
-  "sync_run_id": "dd3bab735b1b77fd",
-  "sync_started_at": "2026-05-17T22:47:27.149219+00:00"
+  "sync_finished_at": "2026-05-17T22:51:23.287673+00:00",
+  "sync_run_id": "6603c199bfb21438",
+  "sync_started_at": "2026-05-17T22:47:31.781283+00:00"
 }
