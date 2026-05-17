@@ -2118,12 +2118,13 @@
     "recent_restock": false,
     "region": "us",
     "risk_labels": [
+      "源站异常",
       "无质保",
       "下单前校验库存"
     ],
     "savings_vs_median": null,
     "service": "gemini",
-    "source_health_status": "healthy",
+    "source_health_status": "error",
     "source_last_success_at": "2026-05-17T19:53:18.013259",
     "source_product_id": "x48f2z",
     "source_site": "LDXP Jinyao",
@@ -2168,10 +2169,12 @@
     "recent_price_drop": false,
     "recent_restock": false,
     "region": "us",
-    "risk_labels": [],
+    "risk_labels": [
+      "源站异常"
+    ],
     "savings_vs_median": 4.55,
     "service": "gemini",
-    "source_health_status": "healthy",
+    "source_health_status": "error",
     "source_last_success_at": "2026-05-17T19:53:18.013259",
     "source_product_id": "x4t3lm",
     "source_site": "LDXP Jinyao",
@@ -2217,11 +2220,12 @@
     "recent_restock": false,
     "region": "unknown",
     "risk_labels": [
+      "源站异常",
       "无质保"
     ],
     "savings_vs_median": 0.98,
     "service": "email",
-    "source_health_status": "healthy",
+    "source_health_status": "error",
     "source_last_success_at": "2026-05-17T19:53:18.013259",
     "source_product_id": "zcr905",
     "source_site": "LDXP Jinyao",
@@ -2267,11 +2271,12 @@
     "recent_restock": false,
     "region": "us",
     "risk_labels": [
+      "源站异常",
       "无质保"
     ],
     "savings_vs_median": 1.49,
     "service": "email",
-    "source_health_status": "healthy",
+    "source_health_status": "error",
     "source_last_success_at": "2026-05-17T19:53:18.013259",
     "source_product_id": "hdf27i",
     "source_site": "LDXP Jinyao",
@@ -2317,11 +2322,12 @@
     "recent_restock": false,
     "region": "unknown",
     "risk_labels": [
+      "源站异常",
       "无质保"
     ],
     "savings_vs_median": 0.67,
     "service": "virtual_card",
-    "source_health_status": "healthy",
+    "source_health_status": "error",
     "source_last_success_at": "2026-05-17T19:53:18.013259",
     "source_product_id": "bg47ft",
     "source_site": "LDXP Jinyao",
@@ -2366,10 +2372,12 @@
     "recent_price_drop": false,
     "recent_restock": false,
     "region": "unknown",
-    "risk_labels": [],
+    "risk_labels": [
+      "源站异常"
+    ],
     "savings_vs_median": -5.35,
     "service": "claude",
-    "source_health_status": "healthy",
+    "source_health_status": "error",
     "source_last_success_at": "2026-05-17T19:53:18.013259",
     "source_product_id": "slglhi",
     "source_site": "LDXP Jinyao",
@@ -2415,11 +2423,12 @@
     "recent_restock": false,
     "region": "unknown",
     "risk_labels": [
+      "源站异常",
       "无质保"
     ],
     "savings_vs_median": -1.29,
     "service": "email",
-    "source_health_status": "healthy",
+    "source_health_status": "error",
     "source_last_success_at": "2026-05-17T19:53:18.013259",
     "source_product_id": "dq3te4",
     "source_site": "LDXP Jinyao",
@@ -2465,11 +2474,12 @@
     "recent_restock": false,
     "region": "us",
     "risk_labels": [
+      "源站异常",
       "无质保"
     ],
     "savings_vs_median": 3.45,
     "service": "email",
-    "source_health_status": "healthy",
+    "source_health_status": "error",
     "source_last_success_at": "2026-05-17T19:53:18.013259",
     "source_product_id": "2siejp",
     "source_site": "LDXP Jinyao",
@@ -2515,11 +2525,12 @@
     "recent_restock": false,
     "region": "unknown",
     "risk_labels": [
+      "源站异常",
       "无质保"
     ],
     "savings_vs_median": 7.72,
     "service": "gemini",
-    "source_health_status": "healthy",
+    "source_health_status": "error",
     "source_last_success_at": "2026-05-17T19:53:18.013259",
     "source_product_id": "pjnicy",
     "source_site": "LDXP Jinyao",
@@ -3071,11 +3082,12 @@
     "recent_restock": false,
     "region": "unknown",
     "risk_labels": [
+      "源站异常",
       "无质保"
     ],
     "savings_vs_median": 2.83,
     "service": "email",
-    "source_health_status": "healthy",
+    "source_health_status": "error",
     "source_last_success_at": "2026-05-17T19:53:18.013259",
     "source_product_id": "7s9zwj",
     "source_site": "LDXP Jinyao",
@@ -3322,10 +3334,12 @@
     "recent_price_drop": false,
     "recent_restock": false,
     "region": "unknown",
-    "risk_labels": [],
+    "risk_labels": [
+      "源站异常"
+    ],
     "savings_vs_median": -13.91,
     "service": "claude",
-    "source_health_status": "healthy",
+    "source_health_status": "error",
     "source_last_success_at": "2026-05-17T19:53:18.013259",
     "source_product_id": "gfvlop",
     "source_site": "LDXP Jinyao",
@@ -3474,11 +3488,12 @@
     "recent_restock": false,
     "region": "unknown",
     "risk_labels": [
+      "源站异常",
       "无质保"
     ],
     "savings_vs_median": -1024.08,
     "service": "email",
-    "source_health_status": "healthy",
+    "source_health_status": "error",
     "source_last_success_at": "2026-05-17T19:53:18.013259",
     "source_product_id": "pk7124",
     "source_site": "LDXP Jinyao",
@@ -3831,12 +3846,13 @@
     "recent_restock": false,
     "region": "unknown",
     "risk_labels": [
+      "源站异常",
       "待复检",
       "无质保"
     ],
     "savings_vs_median": 6.45,
     "service": "grok",
-    "source_health_status": "healthy",
+    "source_health_status": "error",
     "source_last_success_at": "2026-05-17T19:53:18.013259",
     "source_product_id": "g076nx",
     "source_site": "LDXP Jinyao",
@@ -3936,11 +3952,12 @@
     "recent_restock": false,
     "region": "unknown",
     "risk_labels": [
+      "源站异常",
       "无质保"
     ],
     "savings_vs_median": -2.52,
     "service": "gemini",
-    "source_health_status": "healthy",
+    "source_health_status": "error",
     "source_last_success_at": "2026-05-17T19:53:18.013259",
     "source_product_id": "4syqur",
     "source_site": "LDXP Jinyao",
@@ -3986,11 +4003,12 @@
     "recent_restock": false,
     "region": "unknown",
     "risk_labels": [
+      "源站异常",
       "无质保"
     ],
     "savings_vs_median": -0.94,
     "service": "grok",
-    "source_health_status": "healthy",
+    "source_health_status": "error",
     "source_last_success_at": "2026-05-17T19:53:18.013259",
     "source_product_id": "fyq6w0",
     "source_site": "LDXP Jinyao",
@@ -9368,11 +9386,12 @@
     "recent_restock": false,
     "region": "us",
     "risk_labels": [
+      "源站异常",
       "无质保"
     ],
     "savings_vs_median": 0.1,
     "service": "phone_verification",
-    "source_health_status": "healthy",
+    "source_health_status": "error",
     "source_last_success_at": "2026-05-17T19:53:18.013259",
     "source_product_id": "3ctt9h",
     "source_site": "LDXP Jinyao",
@@ -9573,11 +9592,12 @@
     "recent_restock": false,
     "region": "unknown",
     "risk_labels": [
+      "源站异常",
       "无质保"
     ],
     "savings_vs_median": 0.0,
     "service": "grok",
-    "source_health_status": "healthy",
+    "source_health_status": "error",
     "source_last_success_at": "2026-05-17T19:53:18.013259",
     "source_product_id": "lzoj5t",
     "source_site": "LDXP Jinyao",
@@ -9770,10 +9790,12 @@
     "recent_price_drop": false,
     "recent_restock": false,
     "region": "us",
-    "risk_labels": [],
+    "risk_labels": [
+      "源站异常"
+    ],
     "savings_vs_median": 6.61,
     "service": "gemini",
-    "source_health_status": "healthy",
+    "source_health_status": "error",
     "source_last_success_at": "2026-05-17T19:53:18.013259",
     "source_product_id": "jgj366",
     "source_site": "LDXP Jinyao",
@@ -11390,11 +11412,12 @@
     "recent_restock": false,
     "region": "unknown",
     "risk_labels": [
+      "源站异常",
       "无质保"
     ],
     "savings_vs_median": null,
     "service": "grok",
-    "source_health_status": "healthy",
+    "source_health_status": "error",
     "source_last_success_at": "2026-05-17T19:53:18.013259",
     "source_product_id": "hjf2k2",
     "source_site": "LDXP Jinyao",
@@ -12506,11 +12529,12 @@
     "recent_restock": false,
     "region": "unknown",
     "risk_labels": [
+      "源站异常",
       "无质保"
     ],
     "savings_vs_median": 0.0,
     "service": "chatgpt",
-    "source_health_status": "healthy",
+    "source_health_status": "error",
     "source_last_success_at": "2026-05-17T19:53:18.013259",
     "source_product_id": "64c8ro",
     "source_site": "LDXP Jinyao",
@@ -15234,11 +15258,12 @@
     "recent_restock": false,
     "region": "unknown",
     "risk_labels": [
+      "源站异常",
       "无质保"
     ],
     "savings_vs_median": 0.0,
     "service": "email",
-    "source_health_status": "healthy",
+    "source_health_status": "error",
     "source_last_success_at": "2026-05-17T19:53:18.013259",
     "source_product_id": "lotogu",
     "source_site": "LDXP Jinyao",
@@ -15284,11 +15309,12 @@
     "recent_restock": false,
     "region": "unknown",
     "risk_labels": [
+      "源站异常",
       "无质保"
     ],
     "savings_vs_median": 0.0,
     "service": "chatgpt",
-    "source_health_status": "healthy",
+    "source_health_status": "error",
     "source_last_success_at": "2026-05-17T19:53:18.013259",
     "source_product_id": "cdmarp",
     "source_site": "LDXP Jinyao",
@@ -16594,11 +16620,12 @@
     "recent_restock": false,
     "region": "unknown",
     "risk_labels": [
+      "源站异常",
       "无质保"
     ],
     "savings_vs_median": -1.14,
     "service": "grok",
-    "source_health_status": "healthy",
+    "source_health_status": "error",
     "source_last_success_at": "2026-05-17T19:53:18.013259",
     "source_product_id": "8kl5dn",
     "source_site": "LDXP Jinyao",
@@ -16644,11 +16671,12 @@
     "recent_restock": false,
     "region": "unknown",
     "risk_labels": [
+      "源站异常",
       "无质保"
     ],
     "savings_vs_median": null,
     "service": "gemini",
-    "source_health_status": "healthy",
+    "source_health_status": "error",
     "source_last_success_at": "2026-05-17T19:53:18.013259",
     "source_product_id": "p0ski7",
     "source_site": "LDXP Jinyao",
@@ -16693,10 +16721,12 @@
     "recent_price_drop": false,
     "recent_restock": false,
     "region": "unknown",
-    "risk_labels": [],
+    "risk_labels": [
+      "源站异常"
+    ],
     "savings_vs_median": -20.3,
     "service": "claude",
-    "source_health_status": "healthy",
+    "source_health_status": "error",
     "source_last_success_at": "2026-05-17T19:53:18.013259",
     "source_product_id": "2sckwi",
     "source_site": "LDXP Jinyao",
@@ -16741,10 +16771,12 @@
     "recent_price_drop": false,
     "recent_restock": false,
     "region": "unknown",
-    "risk_labels": [],
+    "risk_labels": [
+      "源站异常"
+    ],
     "savings_vs_median": null,
     "service": "grok",
-    "source_health_status": "healthy",
+    "source_health_status": "error",
     "source_last_success_at": "2026-05-17T19:53:18.013259",
     "source_product_id": "d5jj4q",
     "source_site": "LDXP Jinyao",
@@ -16790,11 +16822,12 @@
     "recent_restock": false,
     "region": "unknown",
     "risk_labels": [
+      "源站异常",
       "无质保"
     ],
     "savings_vs_median": 1.74,
     "service": "grok",
-    "source_health_status": "healthy",
+    "source_health_status": "error",
     "source_last_success_at": "2026-05-17T19:53:18.013259",
     "source_product_id": "uwctv1",
     "source_site": "LDXP Jinyao",
@@ -19441,12 +19474,13 @@
     "recent_restock": false,
     "region": "unknown",
     "risk_labels": [
+      "源站异常",
       "待复检",
       "无质保"
     ],
     "savings_vs_median": -12.43,
     "service": "chatgpt",
-    "source_health_status": "healthy",
+    "source_health_status": "error",
     "source_last_success_at": "2026-05-17T19:53:18.013259",
     "source_product_id": "9xbf1o",
     "source_site": "LDXP Jinyao",
@@ -23140,11 +23174,12 @@
     "recent_restock": false,
     "region": "unknown",
     "risk_labels": [
+      "源站异常",
       "无质保"
     ],
     "savings_vs_median": 0.0,
     "service": "email",
-    "source_health_status": "healthy",
+    "source_health_status": "error",
     "source_last_success_at": "2026-05-17T19:53:18.013259",
     "source_product_id": "3oyi4v",
     "source_site": "LDXP Jinyao",
@@ -23189,10 +23224,12 @@
     "recent_price_drop": false,
     "recent_restock": false,
     "region": "unknown",
-    "risk_labels": [],
+    "risk_labels": [
+      "源站异常"
+    ],
     "savings_vs_median": null,
     "service": "chatgpt",
-    "source_health_status": "healthy",
+    "source_health_status": "error",
     "source_last_success_at": "2026-05-17T19:53:18.013259",
     "source_product_id": "btnilz",
     "source_site": "LDXP Jinyao",
@@ -23831,10 +23868,12 @@
     "recent_price_drop": false,
     "recent_restock": false,
     "region": "unknown",
-    "risk_labels": [],
+    "risk_labels": [
+      "源站异常"
+    ],
     "savings_vs_median": 41.05,
     "service": "chatgpt",
-    "source_health_status": "healthy",
+    "source_health_status": "error",
     "source_last_success_at": "2026-05-17T19:53:18.013259",
     "source_product_id": "ejc8ej",
     "source_site": "LDXP Jinyao",
@@ -23880,11 +23919,12 @@
     "recent_restock": false,
     "region": "unknown",
     "risk_labels": [
+      "源站异常",
       "无质保"
     ],
     "savings_vs_median": 0.31,
     "service": "chatgpt",
-    "source_health_status": "healthy",
+    "source_health_status": "error",
     "source_last_success_at": "2026-05-17T19:53:18.013259",
     "source_product_id": "54nvja",
     "source_site": "LDXP Jinyao",
@@ -24473,10 +24513,12 @@
     "recent_price_drop": false,
     "recent_restock": false,
     "region": "unknown",
-    "risk_labels": [],
+    "risk_labels": [
+      "源站异常"
+    ],
     "savings_vs_median": -8.65,
     "service": "chatgpt",
-    "source_health_status": "healthy",
+    "source_health_status": "error",
     "source_last_success_at": "2026-05-17T19:53:18.013259",
     "source_product_id": "p94asy",
     "source_site": "LDXP Jinyao",

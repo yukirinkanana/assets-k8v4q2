@@ -1,12 +1,12 @@
 {
-  "abnormal_site_count": 21,
+  "abnormal_site_count": 22,
   "attempted_site_count": 8,
   "counts_by_status": {
     "disabled": 5,
-    "error": 21,
-    "healthy": 44
+    "error": 22,
+    "healthy": 43
   },
-  "generated_at": "2026-05-17T19:53:19.797016+00:00",
+  "generated_at": "2026-05-17T19:53:36.242627+00:00",
   "site_count": 70,
   "sites": [
     {
@@ -368,20 +368,20 @@
     },
     {
       "active_product_count": 33,
-      "affects_publish": false,
+      "affects_publish": true,
       "attempted_in_run": true,
       "base_url": "https://pay.ldxp.cn/shop/jinyao",
       "is_enabled": true,
-      "last_error_at": null,
-      "last_error_message": null,
+      "last_error_at": "2026-05-17T19:53:27.209947",
+      "last_error_message": "timed out after 90s",
       "last_success_at": "2026-05-17T19:53:18.013259",
       "name": "LDXP Jinyao",
-      "products_seen": 33,
+      "products_seen": null,
       "public_product_count": 33,
-      "run_data_status": "latest",
-      "run_sync_status": "synced",
+      "run_data_status": "stale_snapshot",
+      "run_sync_status": "timeout",
       "site_key": "ldxp_jinyao",
-      "status": "healthy"
+      "status": "error"
     },
     {
       "active_product_count": 0,
@@ -508,7 +508,7 @@
       "attempted_in_run": true,
       "base_url": "https://pay.ldxp.cn/shop/ppm",
       "is_enabled": true,
-      "last_error_at": "2026-05-17T19:53:13.094942",
+      "last_error_at": "2026-05-17T19:53:33.452472",
       "last_error_message": "partial source snapshot guarded: fetched 0 of 7 active products",
       "last_success_at": "2026-05-02T10:18:39.240042",
       "name": "LDXP PPM",
@@ -1200,7 +1200,7 @@
       "status": "healthy"
     }
   ],
-  "sync_finished_at": "2026-05-17T19:53:18.019858+00:00",
-  "sync_run_id": "5ef905777a8f1cf9",
-  "sync_started_at": "2026-05-17T19:51:55.668664+00:00"
+  "sync_finished_at": "2026-05-17T19:53:33.462285+00:00",
+  "sync_run_id": "5cec06d5bc5be614",
+  "sync_started_at": "2026-05-17T19:51:32.614944+00:00"
 }
