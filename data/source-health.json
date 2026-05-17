@@ -6,7 +6,7 @@
     "error": 22,
     "healthy": 43
   },
-  "generated_at": "2026-05-17T22:01:01.295673+00:00",
+  "generated_at": "2026-05-17T22:01:38.807349+00:00",
   "site_count": 70,
   "sites": [
     {
@@ -340,7 +340,7 @@
       "is_enabled": true,
       "last_error_at": null,
       "last_error_message": null,
-      "last_success_at": "2026-05-17T21:43:22.714704",
+      "last_success_at": "2026-05-17T22:01:25.661357",
       "name": "Gmail6868",
       "products_seen": null,
       "public_product_count": 4,
@@ -355,7 +355,7 @@
       "attempted_in_run": false,
       "base_url": "https://pay.ldxp.cn/shop/8YKCHEQ8",
       "is_enabled": true,
-      "last_error_at": "2026-05-17T21:43:09.364934",
+      "last_error_at": "2026-05-17T22:01:34.448235",
       "last_error_message": "partial source snapshot guarded: fetched 0 of 15 active products",
       "last_success_at": "2026-05-04T14:07:04.620233",
       "name": "LDXP 8YKCHEQ8",
@@ -646,7 +646,7 @@
       "is_enabled": true,
       "last_error_at": null,
       "last_error_message": null,
-      "last_success_at": "2026-05-17T22:00:59.393143",
+      "last_success_at": "2026-05-17T22:01:36.374441",
       "name": "LDXP CodexBro",
       "products_seen": 17,
       "public_product_count": 17,
@@ -1018,7 +1018,7 @@
       "attempted_in_run": false,
       "base_url": "https://fe.dtyuedan.cn/shop/aiplus365",
       "is_enabled": true,
-      "last_error_at": "2026-05-17T21:42:02.095619",
+      "last_error_at": "2026-05-17T22:01:28.462457",
       "last_error_message": "partial source snapshot guarded: fetched 0 of 2 active products",
       "last_success_at": "2026-04-30T07:11:40.461888",
       "name": "Dtyuedan Aiplus365",
@@ -1088,7 +1088,7 @@
       "is_enabled": true,
       "last_error_at": null,
       "last_error_message": null,
-      "last_success_at": "2026-05-17T22:00:34.253405",
+      "last_success_at": "2026-05-17T22:01:35.550441",
       "name": "LDXP Echo Dream",
       "products_seen": 21,
       "public_product_count": 21,
@@ -1200,7 +1200,7 @@
       "status": "healthy"
     }
   ],
-  "sync_finished_at": "2026-05-17T22:00:59.397150+00:00",
-  "sync_run_id": "9ac227bd0208cd0c",
-  "sync_started_at": "2026-05-17T21:58:09.828980+00:00"
+  "sync_finished_at": "2026-05-17T22:01:36.377443+00:00",
+  "sync_run_id": "e58aea36fd368f6e",
+  "sync_started_at": "2026-05-17T21:57:56.092117+00:00"
 }
