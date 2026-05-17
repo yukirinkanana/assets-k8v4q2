@@ -26,8 +26,8 @@
   {
     "key": "gemini",
     "label": "Gemini",
-    "partition_count": 90,
-    "unclassified_count": 15
+    "partition_count": 89,
+    "unclassified_count": 16
   },
   {
     "key": "grok",
