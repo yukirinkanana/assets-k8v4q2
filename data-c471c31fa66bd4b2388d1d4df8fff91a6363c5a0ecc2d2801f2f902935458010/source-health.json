@@ -1,12 +1,12 @@
 {
-  "abnormal_site_count": 21,
+  "abnormal_site_count": 22,
   "attempted_site_count": 8,
   "counts_by_status": {
     "disabled": 5,
-    "error": 21,
-    "healthy": 44
+    "error": 22,
+    "healthy": 43
   },
-  "generated_at": "2026-05-17T23:19:18.914070+00:00",
+  "generated_at": "2026-05-17T23:20:23.709707+00:00",
   "site_count": 70,
   "sites": [
     {
@@ -134,7 +134,7 @@
       "attempted_in_run": true,
       "base_url": "https://pay.qxvx.cn/shop/AI66888",
       "is_enabled": true,
-      "last_error_at": "2026-05-17T23:19:16.866279",
+      "last_error_at": "2026-05-17T23:20:21.299133",
       "last_error_message": "timed out after 90s",
       "last_success_at": "2026-05-16T13:32:42.328960",
       "name": "QXVX AI66888",
@@ -289,7 +289,7 @@
       "is_enabled": true,
       "last_error_at": null,
       "last_error_message": null,
-      "last_success_at": "2026-05-17T22:58:36.203619",
+      "last_success_at": "2026-05-17T23:20:12.571418",
       "name": "LDXP 110Y9VXG",
       "products_seen": null,
       "public_product_count": 2,
@@ -340,7 +340,7 @@
       "is_enabled": true,
       "last_error_at": null,
       "last_error_message": null,
-      "last_success_at": "2026-05-17T22:58:12.540502",
+      "last_success_at": "2026-05-17T23:19:34.600938",
       "name": "Gmail6868",
       "products_seen": null,
       "public_product_count": 4,
@@ -525,7 +525,7 @@
       "attempted_in_run": false,
       "base_url": "https://pay.ldxp.cn/shop/aicc888",
       "is_enabled": true,
-      "last_error_at": "2026-05-17T22:58:05.586887",
+      "last_error_at": "2026-05-17T23:19:44.567275",
       "last_error_message": "partial source snapshot guarded: fetched 0 of 2 active products",
       "last_success_at": "2026-04-30T07:16:08.935346",
       "name": "LDXP AICC888",
@@ -714,7 +714,7 @@
       "is_enabled": true,
       "last_error_at": null,
       "last_error_message": null,
-      "last_success_at": "2026-05-17T22:59:24.911930",
+      "last_success_at": "2026-05-17T23:20:05.167670",
       "name": "Ifaka",
       "products_seen": null,
       "public_product_count": 2,
@@ -729,7 +729,7 @@
       "attempted_in_run": false,
       "base_url": "https://pay.ldxp.cn/shop/1K8HXXWV",
       "is_enabled": true,
-      "last_error_at": "2026-05-17T22:58:13.552182",
+      "last_error_at": "2026-05-17T23:19:57.725773",
       "last_error_message": "partial source snapshot guarded: fetched 0 of 1 active products",
       "last_success_at": "2026-04-28T03:24:00.222236",
       "name": "LDXP 1K8HXXWV",
@@ -782,7 +782,7 @@
       "is_enabled": true,
       "last_error_at": null,
       "last_error_message": null,
-      "last_success_at": "2026-05-17T23:18:51.812529",
+      "last_success_at": "2026-05-17T23:20:08.969780",
       "name": "LDXP AI Shop",
       "products_seen": 18,
       "public_product_count": 18,
@@ -867,7 +867,7 @@
       "is_enabled": true,
       "last_error_at": null,
       "last_error_message": null,
-      "last_success_at": "2026-05-17T23:18:21.102158",
+      "last_success_at": "2026-05-17T23:19:35.369914",
       "name": "LDXP Wanghaha",
       "products_seen": 9,
       "public_product_count": 9,
@@ -901,7 +901,7 @@
       "is_enabled": true,
       "last_error_at": null,
       "last_error_message": null,
-      "last_success_at": "2026-05-17T23:18:05.180685",
+      "last_success_at": "2026-05-17T23:19:20.377470",
       "name": "Google7676",
       "products_seen": 8,
       "public_product_count": 8,
@@ -1018,7 +1018,7 @@
       "attempted_in_run": false,
       "base_url": "https://fe.dtyuedan.cn/shop/aiplus365",
       "is_enabled": true,
-      "last_error_at": "2026-05-17T22:57:51.363881",
+      "last_error_at": "2026-05-17T23:19:37.619157",
       "last_error_message": "partial source snapshot guarded: fetched 0 of 2 active products",
       "last_success_at": "2026-04-30T07:11:40.461888",
       "name": "Dtyuedan Aiplus365",
@@ -1150,7 +1150,7 @@
     },
     {
       "active_product_count": 27,
-      "affects_publish": false,
+      "affects_publish": true,
       "attempted_in_run": true,
       "base_url": "https://pay.ldxp.cn/shop/7HVUEC3Y",
       "is_enabled": true,
@@ -1158,12 +1158,12 @@
       "last_error_message": "timed out after 90s",
       "last_success_at": "2026-05-17T23:17:57.808438",
       "name": "LDXP 7HVUEC3Y",
-      "products_seen": 27,
+      "products_seen": null,
       "public_product_count": 27,
-      "run_data_status": "latest",
-      "run_sync_status": "synced",
+      "run_data_status": "stale_snapshot",
+      "run_sync_status": "timeout",
       "site_key": "ldxp_7hvuec3y",
-      "status": "healthy"
+      "status": "error"
     },
     {
       "active_product_count": 2,
@@ -1200,7 +1200,7 @@
       "status": "healthy"
     }
   ],
-  "sync_finished_at": "2026-05-17T23:19:16.878474+00:00",
-  "sync_run_id": "a269db4b75a3213d",
-  "sync_started_at": "2026-05-17T23:16:35.996774+00:00"
+  "sync_finished_at": "2026-05-17T23:20:21.352275+00:00",
+  "sync_run_id": "7f327eedc0b42c09",
+  "sync_started_at": "2026-05-17T23:17:07.683857+00:00"
 }
