@@ -1,12 +1,12 @@
 {
-  "abnormal_site_count": 23,
+  "abnormal_site_count": 22,
   "attempted_site_count": 8,
   "counts_by_status": {
     "disabled": 5,
-    "error": 23,
-    "healthy": 42
+    "error": 22,
+    "healthy": 43
   },
-  "generated_at": "2026-05-17T20:13:46.039728+00:00",
+  "generated_at": "2026-05-17T20:14:11.262090+00:00",
   "site_count": 70,
   "sites": [
     {
@@ -335,17 +335,17 @@
     {
       "active_product_count": 4,
       "affects_publish": false,
-      "attempted_in_run": true,
+      "attempted_in_run": false,
       "base_url": "https://gmail6868.com",
       "is_enabled": true,
       "last_error_at": null,
       "last_error_message": null,
       "last_success_at": "2026-05-17T20:11:48.266878",
       "name": "Gmail6868",
-      "products_seen": 4,
+      "products_seen": null,
       "public_product_count": 4,
-      "run_data_status": "latest",
-      "run_sync_status": "synced",
+      "run_data_status": null,
+      "run_sync_status": null,
       "site_key": "gmail6868",
       "status": "healthy"
     },
@@ -369,7 +369,7 @@
     {
       "active_product_count": 33,
       "affects_publish": true,
-      "attempted_in_run": true,
+      "attempted_in_run": false,
       "base_url": "https://pay.ldxp.cn/shop/jinyao",
       "is_enabled": true,
       "last_error_at": "2026-05-17T20:13:11.689030",
@@ -378,8 +378,8 @@
       "name": "LDXP Jinyao",
       "products_seen": null,
       "public_product_count": 33,
-      "run_data_status": "stale_snapshot",
-      "run_sync_status": "timeout",
+      "run_data_status": null,
+      "run_sync_status": null,
       "site_key": "ldxp_jinyao",
       "status": "error"
     },
@@ -964,17 +964,17 @@
     {
       "active_product_count": 3,
       "affects_publish": false,
-      "attempted_in_run": false,
+      "attempted_in_run": true,
       "base_url": "https://pay.ldxp.cn/shop/KHRR17MS",
       "is_enabled": true,
       "last_error_at": null,
       "last_error_message": null,
-      "last_success_at": "2026-05-17T19:56:09.469201",
+      "last_success_at": "2026-05-17T20:13:52.464422",
       "name": "LDXP KHRR17MS",
-      "products_seen": null,
+      "products_seen": 3,
       "public_product_count": 3,
-      "run_data_status": null,
-      "run_sync_status": null,
+      "run_data_status": "latest",
+      "run_sync_status": "synced",
       "site_key": "ldxp_khrr17ms",
       "status": "healthy"
     },
@@ -1150,20 +1150,20 @@
     },
     {
       "active_product_count": 27,
-      "affects_publish": true,
-      "attempted_in_run": false,
+      "affects_publish": false,
+      "attempted_in_run": true,
       "base_url": "https://pay.ldxp.cn/shop/7HVUEC3Y",
       "is_enabled": true,
-      "last_error_at": "2026-05-17T19:56:17.764765",
-      "last_error_message": "timed out after 90s",
-      "last_success_at": "2026-05-17T19:55:21.875152",
+      "last_error_at": null,
+      "last_error_message": null,
+      "last_success_at": "2026-05-17T20:14:09.499504",
       "name": "LDXP 7HVUEC3Y",
-      "products_seen": null,
+      "products_seen": 27,
       "public_product_count": 27,
-      "run_data_status": null,
-      "run_sync_status": null,
+      "run_data_status": "latest",
+      "run_sync_status": "synced",
       "site_key": "ldxp_7hvuec3y",
-      "status": "error"
+      "status": "healthy"
     },
     {
       "active_product_count": 2,
@@ -1200,7 +1200,7 @@
       "status": "healthy"
     }
   ],
-  "sync_finished_at": "2026-05-17T20:13:43.660212+00:00",
-  "sync_run_id": "441efd48d7b17d27",
-  "sync_started_at": "2026-05-17T20:11:19.658327+00:00"
+  "sync_finished_at": "2026-05-17T20:14:09.512227+00:00",
+  "sync_run_id": "4a56c69984d79ae2",
+  "sync_started_at": "2026-05-17T20:12:09.639142+00:00"
 }
