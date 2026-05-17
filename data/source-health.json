@@ -1,12 +1,12 @@
 {
-  "abnormal_site_count": 23,
+  "abnormal_site_count": 22,
   "attempted_site_count": 8,
   "counts_by_status": {
     "disabled": 5,
-    "error": 23,
-    "healthy": 42
+    "error": 22,
+    "healthy": 43
   },
-  "generated_at": "2026-05-17T20:10:15.458778+00:00",
+  "generated_at": "2026-05-17T20:10:28.271382+00:00",
   "site_count": 70,
   "sites": [
     {
@@ -45,7 +45,7 @@
     },
     {
       "active_product_count": 9,
-      "affects_publish": true,
+      "affects_publish": false,
       "attempted_in_run": true,
       "base_url": "https://fk.accgood.com",
       "is_enabled": true,
@@ -53,27 +53,27 @@
       "last_error_message": "partial source snapshot guarded: fetched 0 of 9 active products",
       "last_success_at": "2026-05-17T20:07:47.424031",
       "name": "AccGood",
-      "products_seen": 0,
+      "products_seen": 9,
       "public_product_count": 9,
-      "run_data_status": "stale_snapshot",
-      "run_sync_status": "partial_snapshot",
+      "run_data_status": "latest",
+      "run_sync_status": "synced",
       "site_key": "accgood",
-      "status": "error"
+      "status": "healthy"
     },
     {
       "active_product_count": 20,
       "affects_publish": false,
-      "attempted_in_run": true,
+      "attempted_in_run": false,
       "base_url": "https://pay.qxvx.cn/shop/JYKGUAEK",
       "is_enabled": true,
       "last_error_at": null,
       "last_error_message": null,
       "last_success_at": "2026-05-17T20:10:13.465610",
       "name": "QXVX JYKGUAEK",
-      "products_seen": 20,
+      "products_seen": null,
       "public_product_count": 20,
-      "run_data_status": "latest",
-      "run_sync_status": "synced",
+      "run_data_status": null,
+      "run_sync_status": null,
       "site_key": "qxvx",
       "status": "healthy"
     },
@@ -459,7 +459,7 @@
       "is_enabled": true,
       "last_error_at": null,
       "last_error_message": null,
-      "last_success_at": "2026-05-17T20:09:34.730601",
+      "last_success_at": "2026-05-17T20:10:25.789407",
       "name": "LDXP WOXP888",
       "products_seen": 29,
       "public_product_count": 29,
@@ -1134,17 +1134,17 @@
     {
       "active_product_count": 4,
       "affects_publish": false,
-      "attempted_in_run": false,
+      "attempted_in_run": true,
       "base_url": "https://pay.ldxp.cn/shop/2425",
       "is_enabled": true,
       "last_error_at": null,
       "last_error_message": null,
       "last_success_at": "2026-05-17T20:08:18.120253",
       "name": "LDXP 2425",
-      "products_seen": null,
+      "products_seen": 4,
       "public_product_count": 4,
-      "run_data_status": null,
-      "run_sync_status": null,
+      "run_data_status": "latest",
+      "run_sync_status": "synced",
       "site_key": "ldxp_2425",
       "status": "healthy"
     },
@@ -1200,7 +1200,7 @@
       "status": "healthy"
     }
   ],
-  "sync_finished_at": "2026-05-17T20:10:13.479105+00:00",
-  "sync_run_id": "15fa0fc25342fb78",
-  "sync_started_at": "2026-05-17T20:07:16.304603+00:00"
+  "sync_finished_at": "2026-05-17T20:10:25.797781+00:00",
+  "sync_run_id": "ec4e1b173f3f14ea",
+  "sync_started_at": "2026-05-17T20:06:58.946716+00:00"
 }
