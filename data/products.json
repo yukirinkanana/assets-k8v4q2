@@ -17162,12 +17162,13 @@
     "recent_restock": false,
     "region": "unknown",
     "risk_labels": [
+      "源站异常",
       "待复检",
       "无质保"
     ],
     "savings_vs_median": -192.76,
     "service": "chatgpt",
-    "source_health_status": "healthy",
+    "source_health_status": "outage",
     "source_last_success_at": "2026-05-17T21:30:44.864177",
     "source_product_id": "5mpvw4",
     "source_site": "LDXP KHRR17MS",
@@ -17213,12 +17214,13 @@
     "recent_restock": false,
     "region": "unknown",
     "risk_labels": [
+      "源站异常",
       "待复检",
       "无质保"
     ],
     "savings_vs_median": -7.36,
     "service": "chatgpt",
-    "source_health_status": "healthy",
+    "source_health_status": "outage",
     "source_last_success_at": "2026-05-17T21:30:44.864177",
     "source_product_id": "mw537e",
     "source_site": "LDXP KHRR17MS",
@@ -17365,11 +17367,12 @@
     "recent_restock": false,
     "region": "unknown",
     "risk_labels": [
+      "源站异常",
       "无质保"
     ],
     "savings_vs_median": 63.36,
     "service": "chatgpt",
-    "source_health_status": "healthy",
+    "source_health_status": "outage",
     "source_last_success_at": "2026-05-17T21:31:46.961954",
     "source_product_id": "w5oxkn",
     "source_site": "LDXP 66AI",
@@ -23790,11 +23793,12 @@
     "recent_restock": false,
     "region": "unknown",
     "risk_labels": [
+      "源站异常",
       "无质保"
     ],
     "savings_vs_median": -4.17,
     "service": "email",
-    "source_health_status": "healthy",
+    "source_health_status": "outage",
     "source_last_success_at": "2026-05-17T21:30:44.864177",
     "source_product_id": "fll9oy",
     "source_site": "LDXP KHRR17MS",
