@@ -6,7 +6,7 @@
     "error": 22,
     "healthy": 43
   },
-  "generated_at": "2026-05-17T21:21:51.919682+00:00",
+  "generated_at": "2026-05-17T21:22:52.013252+00:00",
   "site_count": 70,
   "sites": [
     {
@@ -425,7 +425,7 @@
       "is_enabled": true,
       "last_error_at": null,
       "last_error_message": null,
-      "last_success_at": "2026-05-17T21:21:28.812097",
+      "last_success_at": "2026-05-17T21:22:18.892399",
       "name": "LDXP WR09NYJN",
       "products_seen": 2,
       "public_product_count": 2,
@@ -646,7 +646,7 @@
       "is_enabled": true,
       "last_error_at": null,
       "last_error_message": null,
-      "last_success_at": "2026-05-17T21:21:49.896782",
+      "last_success_at": "2026-05-17T21:22:49.553234",
       "name": "LDXP CodexBro",
       "products_seen": 17,
       "public_product_count": 17,
@@ -935,7 +935,7 @@
       "is_enabled": true,
       "last_error_at": null,
       "last_error_message": null,
-      "last_success_at": "2026-05-17T21:04:11.239482",
+      "last_success_at": "2026-05-17T21:22:23.893844",
       "name": "Spark Zone",
       "products_seen": null,
       "public_product_count": 13,
@@ -950,7 +950,7 @@
       "attempted_in_run": false,
       "base_url": "https://pay.ldxp.cn/shop/L3MICL3Q",
       "is_enabled": true,
-      "last_error_at": "2026-05-17T21:04:26.615665",
+      "last_error_at": "2026-05-17T21:22:48.722170",
       "last_error_message": "partial source snapshot guarded: fetched 0 of 1 active products",
       "last_success_at": "2026-05-02T03:54:59.388055",
       "name": "LDXP L3MICL3Q",
@@ -1088,7 +1088,7 @@
       "is_enabled": true,
       "last_error_at": null,
       "last_error_message": null,
-      "last_success_at": "2026-05-17T21:21:15.909629",
+      "last_success_at": "2026-05-17T21:22:21.445588",
       "name": "LDXP Echo Dream",
       "products_seen": 21,
       "public_product_count": 21,
@@ -1200,7 +1200,7 @@
       "status": "healthy"
     }
   ],
-  "sync_finished_at": "2026-05-17T21:21:50.125737+00:00",
-  "sync_run_id": "e50dc602f6dc0c2c",
-  "sync_started_at": "2026-05-17T21:18:51.085838+00:00"
+  "sync_finished_at": "2026-05-17T21:22:49.556748+00:00",
+  "sync_run_id": "7f237db9f9d2bb2b",
+  "sync_started_at": "2026-05-17T21:19:09.040403+00:00"
 }
