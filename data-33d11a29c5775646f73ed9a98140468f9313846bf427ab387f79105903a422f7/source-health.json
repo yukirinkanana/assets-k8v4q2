@@ -7,7 +7,7 @@
     "healthy": 29,
     "outage": 2
   },
-  "generated_at": "2026-05-18T00:22:56.915690+00:00",
+  "generated_at": "2026-05-18T00:23:54.569625+00:00",
   "site_count": 70,
   "sites": [
     {
@@ -426,7 +426,7 @@
       "is_enabled": true,
       "last_error_at": null,
       "last_error_message": null,
-      "last_success_at": "2026-05-18T00:22:21.167675",
+      "last_success_at": "2026-05-18T00:23:15.757897",
       "name": "LDXP WR09NYJN",
       "products_seen": 2,
       "public_product_count": 2,
@@ -543,7 +543,7 @@
       "attempted_in_run": true,
       "base_url": "https://pay.ldxp.cn/shop/MEDDEX4V",
       "is_enabled": true,
-      "last_error_at": "2026-05-18T00:22:44.367741",
+      "last_error_at": "2026-05-18T00:23:41.893218",
       "last_error_message": "partial source snapshot guarded: fetched 0 of 16 active products",
       "last_success_at": "2026-05-02T10:19:09.658397",
       "name": "LDXP MEDDEX4V",
@@ -1106,7 +1106,7 @@
       "is_enabled": true,
       "last_error_at": null,
       "last_error_message": null,
-      "last_success_at": "2026-05-18T00:22:54.925869",
+      "last_success_at": "2026-05-18T00:23:52.391262",
       "name": "LDXP 6YHGJOPN",
       "products_seen": 4,
       "public_product_count": 4,
@@ -1191,7 +1191,7 @@
       "is_enabled": true,
       "last_error_at": null,
       "last_error_message": null,
-      "last_success_at": "2026-05-18T00:22:31.215403",
+      "last_success_at": "2026-05-18T00:23:27.406033",
       "name": "LDXP 6TKPIT5E",
       "products_seen": 13,
       "public_product_count": 13,
@@ -1201,7 +1201,7 @@
       "status": "healthy"
     }
   ],
-  "sync_finished_at": "2026-05-18T00:22:54.931924+00:00",
-  "sync_run_id": "31e6a10c868d3209",
-  "sync_started_at": "2026-05-18T00:20:07.729606+00:00"
+  "sync_finished_at": "2026-05-18T00:23:52.398534+00:00",
+  "sync_run_id": "8aa0b522be1d1cef",
+  "sync_started_at": "2026-05-18T00:20:28.948625+00:00"
 }
