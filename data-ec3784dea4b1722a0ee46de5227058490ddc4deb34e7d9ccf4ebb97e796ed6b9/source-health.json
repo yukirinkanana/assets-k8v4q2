@@ -9,7 +9,7 @@
     "never_synced": 2,
     "outage": 14
   },
-  "generated_at": "2026-05-19T17:54:08.569808+00:00",
+  "generated_at": "2026-05-19T17:59:16.045452+00:00",
   "site_count": 77,
   "sites": [
     {
@@ -924,7 +924,7 @@
       "last_success_at": "2026-05-19T15:12:40.509293",
       "name": "AISou",
       "products_seen": null,
-      "public_product_count": 12,
+      "public_product_count": 13,
       "run_data_status": "stale_snapshot",
       "run_sync_status": "sync_error",
       "site_key": "aisou",
