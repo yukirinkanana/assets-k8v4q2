@@ -8,7 +8,7 @@
     "healthy": 27,
     "never_synced": 2
   },
-  "generated_at": "2026-05-19T13:09:30.832747+00:00",
+  "generated_at": "2026-05-19T13:14:53.785556+00:00",
   "site_count": 77,
   "sites": [
     {
@@ -379,7 +379,7 @@
       "last_success_at": "2026-05-19T02:14:53.404741",
       "name": "LDXP Jinyao",
       "products_seen": null,
-      "public_product_count": 33,
+      "public_product_count": 29,
       "run_data_status": null,
       "run_sync_status": null,
       "site_key": "ldxp_jinyao",
