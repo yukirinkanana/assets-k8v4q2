@@ -6,7 +6,7 @@
     "error": 22,
     "healthy": 45
   },
-  "generated_at": "2026-05-19T02:27:35.628283+00:00",
+  "generated_at": "2026-05-19T02:33:01.660727+00:00",
   "site_count": 72,
   "sites": [
     {
@@ -836,7 +836,7 @@
       "last_success_at": "2026-05-19T00:57:56.507629",
       "name": "TalkAI",
       "products_seen": null,
-      "public_product_count": 13,
+      "public_product_count": 12,
       "run_data_status": null,
       "run_sync_status": null,
       "site_key": "talkai",
