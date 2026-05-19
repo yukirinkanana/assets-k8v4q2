@@ -8,7 +8,7 @@
     "healthy": 27,
     "never_synced": 2
   },
-  "generated_at": "2026-05-19T10:49:20.312429+00:00",
+  "generated_at": "2026-05-19T10:54:32.893649+00:00",
   "site_count": 77,
   "sites": [
     {
@@ -464,7 +464,7 @@
       "last_success_at": "2026-05-19T00:53:02.852568",
       "name": "LDXP WOXP888",
       "products_seen": null,
-      "public_product_count": 31,
+      "public_product_count": 32,
       "run_data_status": null,
       "run_sync_status": null,
       "site_key": "ldxp_woxp888",
