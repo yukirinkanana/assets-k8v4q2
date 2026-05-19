@@ -8,7 +8,7 @@
     "healthy": 27,
     "never_synced": 2
   },
-  "generated_at": "2026-05-19T10:17:53.391853+00:00",
+  "generated_at": "2026-05-19T10:23:22.846258+00:00",
   "site_count": 77,
   "sites": [
     {
@@ -1059,7 +1059,7 @@
       "last_success_at": "2026-05-19T03:36:35.873332",
       "name": "LDXP 6E2KLHP3",
       "products_seen": null,
-      "public_product_count": 9,
+      "public_product_count": 10,
       "run_data_status": null,
       "run_sync_status": null,
       "site_key": "ldxp_6e2klhp3",
@@ -1144,7 +1144,7 @@
       "last_success_at": "2026-05-19T02:52:29.921513",
       "name": "LDXP 2425",
       "products_seen": null,
-      "public_product_count": 7,
+      "public_product_count": 4,
       "run_data_status": null,
       "run_sync_status": null,
       "site_key": "ldxp_2425",
