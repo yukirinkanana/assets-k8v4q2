@@ -8,7 +8,7 @@
     "healthy": 35,
     "never_synced": 2
   },
-  "generated_at": "2026-05-19T02:53:19.306037+00:00",
+  "generated_at": "2026-05-19T02:58:34.176140+00:00",
   "site_count": 77,
   "sites": [
     {
@@ -124,7 +124,7 @@
       "last_success_at": "2026-05-19T01:33:38.977556",
       "name": "LDXP Gugu",
       "products_seen": null,
-      "public_product_count": 43,
+      "public_product_count": 45,
       "run_data_status": null,
       "run_sync_status": null,
       "site_key": "ldxp_gugu",
