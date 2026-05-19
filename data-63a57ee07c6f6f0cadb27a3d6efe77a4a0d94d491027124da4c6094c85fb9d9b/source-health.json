@@ -8,7 +8,7 @@
     "healthy": 27,
     "never_synced": 2
   },
-  "generated_at": "2026-05-19T11:41:18.484832+00:00",
+  "generated_at": "2026-05-19T11:56:22.631364+00:00",
   "site_count": 77,
   "sites": [
     {
@@ -872,7 +872,7 @@
       "last_success_at": "2026-05-19T01:50:30.161735",
       "name": "LDXP Wanghaha",
       "products_seen": null,
-      "public_product_count": 7,
+      "public_product_count": 8,
       "run_data_status": null,
       "run_sync_status": null,
       "site_key": "ldxp_wanghaha",
