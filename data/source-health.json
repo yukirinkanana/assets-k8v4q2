@@ -9,7 +9,7 @@
     "never_synced": 2,
     "outage": 14
   },
-  "generated_at": "2026-05-19T16:38:16.796042+00:00",
+  "generated_at": "2026-05-19T16:43:36.169735+00:00",
   "site_count": 77,
   "sites": [
     {
@@ -975,7 +975,7 @@
       "last_success_at": "2026-05-19T01:55:32.742075",
       "name": "LDXP KHRR17MS",
       "products_seen": null,
-      "public_product_count": 5,
+      "public_product_count": 3,
       "run_data_status": null,
       "run_sync_status": null,
       "site_key": "ldxp_khrr17ms",
