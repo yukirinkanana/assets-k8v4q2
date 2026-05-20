@@ -7,7 +7,7 @@
     "healthy": 49,
     "outage": 1
   },
-  "generated_at": "2026-05-20T09:29:11.465987+00:00",
+  "generated_at": "2026-05-20T09:41:04.440632+00:00",
   "site_count": 77,
   "sites": [
     {
@@ -89,7 +89,7 @@
       "last_success_at": "2026-05-20T08:29:58.845960",
       "name": "Niko Card",
       "products_seen": null,
-      "public_product_count": 15,
+      "public_product_count": 14,
       "run_data_status": null,
       "run_sync_status": null,
       "site_key": "niko_card",
@@ -1296,7 +1296,7 @@
       "last_success_at": "2026-05-20T08:31:22.437158",
       "name": "LDXP 3PU26BB4",
       "products_seen": null,
-      "public_product_count": 9,
+      "public_product_count": 8,
       "run_data_status": null,
       "run_sync_status": null,
       "site_key": "ldxp_3pu26bb4",
