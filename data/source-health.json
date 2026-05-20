@@ -6,7 +6,7 @@
     "error": 23,
     "healthy": 49
   },
-  "generated_at": "2026-05-20T12:36:26.875131+00:00",
+  "generated_at": "2026-05-20T12:42:23.249404+00:00",
   "site_count": 77,
   "sites": [
     {
@@ -870,7 +870,7 @@
       "last_success_at": "2026-05-20T10:29:01.318682",
       "name": "LDXP Wanghaha",
       "products_seen": null,
-      "public_product_count": 8,
+      "public_product_count": 7,
       "run_data_status": null,
       "run_sync_status": null,
       "site_key": "ldxp_wanghaha",
@@ -1244,7 +1244,7 @@
       "last_success_at": "2026-05-20T10:18:52.793739",
       "name": "LDXP GU3XQH61",
       "products_seen": null,
-      "public_product_count": 34,
+      "public_product_count": 32,
       "run_data_status": null,
       "run_sync_status": null,
       "site_key": "ldxp_gu3xqh61",
