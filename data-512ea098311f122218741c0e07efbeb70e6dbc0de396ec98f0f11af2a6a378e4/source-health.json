@@ -6,7 +6,7 @@
     "error": 25,
     "healthy": 47
   },
-  "generated_at": "2026-05-20T10:31:54.511164+00:00",
+  "generated_at": "2026-05-20T10:37:00.420830+00:00",
   "site_count": 77,
   "sites": [
     {
@@ -768,7 +768,7 @@
       "last_success_at": "2026-05-20T10:01:38.270358",
       "name": "LDXP Lemon Watermelon",
       "products_seen": null,
-      "public_product_count": 10,
+      "public_product_count": 12,
       "run_data_status": null,
       "run_sync_status": null,
       "site_key": "ldxp_lemon_watermelon",
