@@ -7,7 +7,7 @@
     "healthy": 44,
     "outage": 3
   },
-  "generated_at": "2026-05-20T18:36:34.767601+00:00",
+  "generated_at": "2026-05-20T18:41:39.680054+00:00",
   "site_count": 77,
   "sites": [
     {
@@ -1262,7 +1262,7 @@
       "last_success_at": "2026-05-19T18:41:14.623899",
       "name": "LDXP Xiamai",
       "products_seen": null,
-      "public_product_count": 118,
+      "public_product_count": 0,
       "run_data_status": null,
       "run_sync_status": null,
       "site_key": "ldxp_xiamai",
