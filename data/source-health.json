@@ -7,7 +7,7 @@
     "healthy": 49,
     "outage": 1
   },
-  "generated_at": "2026-05-20T09:23:35.188377+00:00",
+  "generated_at": "2026-05-20T09:29:11.465987+00:00",
   "site_count": 77,
   "sites": [
     {
@@ -1177,7 +1177,7 @@
       "last_success_at": "2026-05-20T08:54:02.003057",
       "name": "LDXP 4UOATQTU",
       "products_seen": 3,
-      "public_product_count": 3,
+      "public_product_count": 4,
       "run_data_status": "latest",
       "run_sync_status": "synced",
       "site_key": "ldxp_4uoatqtu",
