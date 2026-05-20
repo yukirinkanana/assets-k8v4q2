@@ -6,7 +6,7 @@
     "error": 23,
     "healthy": 49
   },
-  "generated_at": "2026-05-20T06:20:48.923188+00:00",
+  "generated_at": "2026-05-20T06:26:08.854952+00:00",
   "site_count": 77,
   "sites": [
     {
@@ -751,7 +751,7 @@
       "last_success_at": "2026-05-20T05:52:29.372285",
       "name": "LDXP RXKT7LFX",
       "products_seen": null,
-      "public_product_count": 15,
+      "public_product_count": 13,
       "run_data_status": null,
       "run_sync_status": null,
       "site_key": "ldxp_rxkt7lfx",
@@ -1159,7 +1159,7 @@
       "last_success_at": "2026-05-20T05:51:19.039263",
       "name": "LDXP 7HVUEC3Y",
       "products_seen": null,
-      "public_product_count": 24,
+      "public_product_count": 21,
       "run_data_status": null,
       "run_sync_status": null,
       "site_key": "ldxp_7hvuec3y",
