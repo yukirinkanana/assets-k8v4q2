@@ -7,7 +7,7 @@
     "healthy": 47,
     "outage": 1
   },
-  "generated_at": "2026-05-20T14:50:45.165671+00:00",
+  "generated_at": "2026-05-20T14:56:25.520191+00:00",
   "site_count": 77,
   "sites": [
     {
@@ -1092,7 +1092,7 @@
       "last_success_at": "2026-05-20T13:06:02.384857",
       "name": "LDXP Echo Dream",
       "products_seen": 23,
-      "public_product_count": 24,
+      "public_product_count": 23,
       "run_data_status": "latest",
       "run_sync_status": "synced",
       "site_key": "ldxp_echo_dream",
