@@ -8,7 +8,7 @@
     "healthy": 48,
     "outage": 1
   },
-  "generated_at": "2026-05-20T06:42:45.180795+00:00",
+  "generated_at": "2026-05-20T06:48:39.326117+00:00",
   "site_count": 77,
   "sites": [
     {
@@ -1246,7 +1246,7 @@
       "last_success_at": "2026-05-20T06:15:06.301940",
       "name": "LDXP GU3XQH61",
       "products_seen": null,
-      "public_product_count": 33,
+      "public_product_count": 34,
       "run_data_status": null,
       "run_sync_status": null,
       "site_key": "ldxp_gu3xqh61",
