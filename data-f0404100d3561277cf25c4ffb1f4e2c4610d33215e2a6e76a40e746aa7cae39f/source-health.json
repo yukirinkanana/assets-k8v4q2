@@ -6,7 +6,7 @@
     "error": 24,
     "healthy": 48
   },
-  "generated_at": "2026-05-20T05:43:28.845178+00:00",
+  "generated_at": "2026-05-20T05:48:36.660937+00:00",
   "site_count": 77,
   "sites": [
     {
@@ -122,7 +122,7 @@
       "last_success_at": "2026-05-19T22:24:06.182417",
       "name": "LDXP Gugu",
       "products_seen": null,
-      "public_product_count": 47,
+      "public_product_count": 50,
       "run_data_status": null,
       "run_sync_status": null,
       "site_key": "ldxp_gugu",
@@ -1091,7 +1091,7 @@
       "last_success_at": "2026-05-20T05:15:18.893075",
       "name": "LDXP Echo Dream",
       "products_seen": null,
-      "public_product_count": 23,
+      "public_product_count": 24,
       "run_data_status": null,
       "run_sync_status": null,
       "site_key": "ldxp_echo_dream",
@@ -1295,7 +1295,7 @@
       "last_success_at": "2026-05-20T05:16:12.750023",
       "name": "LDXP 3PU26BB4",
       "products_seen": null,
-      "public_product_count": 8,
+      "public_product_count": 9,
       "run_data_status": null,
       "run_sync_status": null,
       "site_key": "ldxp_3pu26bb4",
