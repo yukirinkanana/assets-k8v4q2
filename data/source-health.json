@@ -7,7 +7,7 @@
     "healthy": 47,
     "outage": 1
   },
-  "generated_at": "2026-05-20T16:31:42.906550+00:00",
+  "generated_at": "2026-05-20T16:37:10.919167+00:00",
   "site_count": 77,
   "sites": [
     {
@@ -752,7 +752,7 @@
       "last_success_at": "2026-05-20T12:51:28.762993",
       "name": "LDXP RXKT7LFX",
       "products_seen": null,
-      "public_product_count": 13,
+      "public_product_count": 14,
       "run_data_status": null,
       "run_sync_status": null,
       "site_key": "ldxp_rxkt7lfx",
