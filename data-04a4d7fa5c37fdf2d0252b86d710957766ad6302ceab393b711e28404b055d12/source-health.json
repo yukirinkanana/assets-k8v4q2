@@ -7,7 +7,7 @@
     "healthy": 47,
     "outage": 1
   },
-  "generated_at": "2026-05-20T16:09:50.351860+00:00",
+  "generated_at": "2026-05-20T16:20:25.675851+00:00",
   "site_count": 77,
   "sites": [
     {
@@ -922,7 +922,7 @@
       "last_success_at": "2026-05-20T12:27:42.543682",
       "name": "AISou",
       "products_seen": null,
-      "public_product_count": 12,
+      "public_product_count": 13,
       "run_data_status": null,
       "run_sync_status": null,
       "site_key": "aisou",
@@ -1058,7 +1058,7 @@
       "last_success_at": "2026-05-20T13:02:43.807747",
       "name": "LDXP 6E2KLHP3",
       "products_seen": null,
-      "public_product_count": 10,
+      "public_product_count": 11,
       "run_data_status": null,
       "run_sync_status": null,
       "site_key": "ldxp_6e2klhp3",
