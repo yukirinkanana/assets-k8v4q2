@@ -9,7 +9,7 @@
     "never_synced": 2,
     "outage": 14
   },
-  "generated_at": "2026-05-20T05:22:54.173011+00:00",
+  "generated_at": "2026-05-20T05:28:37.762948+00:00",
   "site_count": 77,
   "sites": [
     {
@@ -822,7 +822,7 @@
       "last_success_at": "2026-05-10T16:48:51.901962",
       "name": "LDXP 3S5GUAQ4",
       "products_seen": null,
-      "public_product_count": 5,
+      "public_product_count": 6,
       "run_data_status": "stale_snapshot",
       "run_sync_status": "sync_error",
       "site_key": "ldxp_3s5guaq4",
