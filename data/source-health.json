@@ -7,7 +7,7 @@
     "healthy": 45,
     "outage": 2
   },
-  "generated_at": "2026-05-20T12:57:53.372823+00:00",
+  "generated_at": "2026-05-20T13:03:08.467133+00:00",
   "site_count": 77,
   "sites": [
     {
@@ -939,7 +939,7 @@
       "last_success_at": "2026-05-20T12:32:54.497748",
       "name": "Spark Zone",
       "products_seen": null,
-      "public_product_count": 15,
+      "public_product_count": 13,
       "run_data_status": null,
       "run_sync_status": null,
       "site_key": "spark_zone",
