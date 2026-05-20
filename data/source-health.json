@@ -7,7 +7,7 @@
     "healthy": 47,
     "outage": 1
   },
-  "generated_at": "2026-05-20T13:08:13.222332+00:00",
+  "generated_at": "2026-05-20T13:13:22.494302+00:00",
   "site_count": 77,
   "sites": [
     {
@@ -344,7 +344,7 @@
       "last_success_at": "2026-05-20T12:44:16.270245",
       "name": "Gmail6868",
       "products_seen": null,
-      "public_product_count": 4,
+      "public_product_count": 5,
       "run_data_status": null,
       "run_sync_status": null,
       "site_key": "gmail6868",
