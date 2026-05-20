@@ -6,7 +6,7 @@
     "error": 24,
     "healthy": 48
   },
-  "generated_at": "2026-05-20T05:48:36.660937+00:00",
+  "generated_at": "2026-05-20T05:53:48.487415+00:00",
   "site_count": 77,
   "sites": [
     {
@@ -1159,7 +1159,7 @@
       "last_success_at": "2026-05-20T05:11:57.711223",
       "name": "LDXP 7HVUEC3Y",
       "products_seen": null,
-      "public_product_count": 23,
+      "public_product_count": 24,
       "run_data_status": null,
       "run_sync_status": null,
       "site_key": "ldxp_7hvuec3y",
