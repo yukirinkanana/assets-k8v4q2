@@ -2,13 +2,13 @@
   {
     "key": "chatgpt",
     "label": "ChatGPT",
-    "partition_count": 250,
+    "partition_count": 248,
     "unclassified_count": 38
   },
   {
     "key": "claude",
     "label": "Claude",
-    "partition_count": 28,
+    "partition_count": 27,
     "unclassified_count": 10
   },
   {
@@ -26,8 +26,8 @@
   {
     "key": "gemini",
     "label": "Gemini",
-    "partition_count": 106,
-    "unclassified_count": 14
+    "partition_count": 105,
+    "unclassified_count": 15
   },
   {
     "key": "grok",
