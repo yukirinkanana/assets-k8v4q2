@@ -7,7 +7,7 @@
     "healthy": 44,
     "outage": 3
   },
-  "generated_at": "2026-05-20T18:16:09.227206+00:00",
+  "generated_at": "2026-05-20T18:21:13.435776+00:00",
   "site_count": 77,
   "sites": [
     {
@@ -72,7 +72,7 @@
       "last_success_at": "2026-05-19T18:18:42.549711",
       "name": "QXVX JYKGUAEK",
       "products_seen": null,
-      "public_product_count": 21,
+      "public_product_count": 0,
       "run_data_status": "stale_snapshot",
       "run_sync_status": "timeout",
       "site_key": "qxvx",
