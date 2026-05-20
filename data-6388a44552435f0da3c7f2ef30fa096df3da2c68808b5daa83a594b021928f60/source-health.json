@@ -9,7 +9,7 @@
     "never_synced": 2,
     "outage": 14
   },
-  "generated_at": "2026-05-20T05:07:33.012804+00:00",
+  "generated_at": "2026-05-20T05:12:36.722412+00:00",
   "site_count": 77,
   "sites": [
     {
@@ -1162,7 +1162,7 @@
       "last_success_at": "2026-05-19T03:26:34.468098",
       "name": "LDXP 7HVUEC3Y",
       "products_seen": null,
-      "public_product_count": 24,
+      "public_product_count": 23,
       "run_data_status": null,
       "run_sync_status": null,
       "site_key": "ldxp_7hvuec3y",
