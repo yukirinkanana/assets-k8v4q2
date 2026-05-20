@@ -44,7 +44,7 @@
   {
     "key": "phone_verification",
     "label": "手机接码",
-    "partition_count": 10,
+    "partition_count": 11,
     "unclassified_count": 0
   },
   {
