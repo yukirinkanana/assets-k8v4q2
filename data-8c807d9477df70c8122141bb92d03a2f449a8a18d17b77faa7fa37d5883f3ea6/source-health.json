@@ -8,7 +8,7 @@
     "healthy": 14,
     "outage": 32
   },
-  "generated_at": "2026-05-21T00:53:48.345823+00:00",
+  "generated_at": "2026-05-21T00:58:55.830512+00:00",
   "site_count": 77,
   "sites": [
     {
@@ -124,7 +124,7 @@
       "last_success_at": "2026-05-20T12:20:23.067082",
       "name": "LDXP Gugu",
       "products_seen": null,
-      "public_product_count": 46,
+      "public_product_count": 42,
       "run_data_status": null,
       "run_sync_status": null,
       "site_key": "ldxp_gugu",
@@ -141,7 +141,7 @@
       "last_success_at": "2026-05-20T11:46:17.220922",
       "name": "QXVX AI66888",
       "products_seen": null,
-      "public_product_count": 26,
+      "public_product_count": 64,
       "run_data_status": "stale_snapshot",
       "run_sync_status": "sync_error",
       "site_key": "qxvx_ai66888",
