@@ -20,7 +20,7 @@
   {
     "key": "email",
     "label": "邮箱",
-    "partition_count": 79,
+    "partition_count": 78,
     "unclassified_count": 1
   },
   {
@@ -39,7 +39,7 @@
     "key": "other",
     "label": "Other",
     "partition_count": 0,
-    "unclassified_count": 63
+    "unclassified_count": 65
   },
   {
     "key": "phone_verification",
