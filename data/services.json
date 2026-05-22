@@ -8,7 +8,7 @@
   {
     "key": "claude",
     "label": "Claude",
-    "partition_count": 23,
+    "partition_count": 19,
     "unclassified_count": 10
   },
   {
@@ -26,7 +26,7 @@
   {
     "key": "gemini",
     "label": "Gemini",
-    "partition_count": 93,
+    "partition_count": 94,
     "unclassified_count": 17
   },
   {
