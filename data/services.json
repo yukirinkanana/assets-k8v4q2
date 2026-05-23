@@ -8,7 +8,7 @@
   {
     "key": "claude",
     "label": "Claude",
-    "partition_count": 22,
+    "partition_count": 23,
     "unclassified_count": 10
   },
   {
@@ -39,7 +39,7 @@
     "key": "other",
     "label": "Other",
     "partition_count": 0,
-    "unclassified_count": 50
+    "unclassified_count": 51
   },
   {
     "key": "phone_verification",
