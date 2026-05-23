@@ -2,61 +2,61 @@
   {
     "key": "chatgpt",
     "label": "ChatGPT",
-    "partition_count": 258,
-    "unclassified_count": 43
+    "partition_count": 77,
+    "unclassified_count": 9
   },
   {
     "key": "claude",
     "label": "Claude",
-    "partition_count": 23,
-    "unclassified_count": 10
+    "partition_count": 11,
+    "unclassified_count": 2
   },
   {
     "key": "cursor",
     "label": "Cursor",
-    "partition_count": 3,
+    "partition_count": 1,
     "unclassified_count": 1
   },
   {
     "key": "email",
     "label": "邮箱",
-    "partition_count": 92,
+    "partition_count": 43,
     "unclassified_count": 2
   },
   {
     "key": "gemini",
     "label": "Gemini",
-    "partition_count": 107,
-    "unclassified_count": 16
+    "partition_count": 39,
+    "unclassified_count": 3
   },
   {
     "key": "grok",
     "label": "Grok",
-    "partition_count": 33,
-    "unclassified_count": 3
+    "partition_count": 15,
+    "unclassified_count": 2
   },
   {
     "key": "other",
     "label": "Other",
     "partition_count": 0,
-    "unclassified_count": 67
+    "unclassified_count": 15
   },
   {
     "key": "phone_verification",
     "label": "手机接码",
-    "partition_count": 10,
+    "partition_count": 1,
     "unclassified_count": 0
   },
   {
     "key": "service_kiro_mpev59v6",
     "label": "Kiro",
     "partition_count": 0,
-    "unclassified_count": 2
+    "unclassified_count": 1
   },
   {
     "key": "virtual_card",
     "label": "虚拟卡",
-    "partition_count": 14,
+    "partition_count": 6,
     "unclassified_count": 0
   }
 ]
