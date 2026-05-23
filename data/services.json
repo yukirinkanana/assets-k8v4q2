@@ -2,8 +2,8 @@
   {
     "key": "chatgpt",
     "label": "ChatGPT",
-    "partition_count": 259,
-    "unclassified_count": 44
+    "partition_count": 260,
+    "unclassified_count": 43
   },
   {
     "key": "claude",
@@ -20,7 +20,7 @@
   {
     "key": "email",
     "label": "邮箱",
-    "partition_count": 88,
+    "partition_count": 90,
     "unclassified_count": 2
   },
   {
@@ -51,7 +51,7 @@
     "key": "service_kiro_mpev59v6",
     "label": "Kiro",
     "partition_count": 0,
-    "unclassified_count": 2
+    "unclassified_count": 3
   },
   {
     "key": "virtual_card",
