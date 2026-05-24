@@ -8,7 +8,7 @@
   {
     "key": "claude",
     "label": "Claude",
-    "partition_count": 22,
+    "partition_count": 23,
     "unclassified_count": 10
   },
   {
@@ -51,7 +51,7 @@
     "key": "service_kiro_mpev59v6",
     "label": "Kiro",
     "partition_count": 0,
-    "unclassified_count": 1
+    "unclassified_count": 2
   },
   {
     "key": "virtual_card",
