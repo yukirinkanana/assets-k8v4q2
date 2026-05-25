@@ -39,12 +39,12 @@
     "key": "other",
     "label": "Other",
     "partition_count": 0,
-    "unclassified_count": 72
+    "unclassified_count": 88
   },
   {
     "key": "phone_verification",
     "label": "手机接码",
-    "partition_count": 12,
+    "partition_count": 13,
     "unclassified_count": 0
   },
   {
