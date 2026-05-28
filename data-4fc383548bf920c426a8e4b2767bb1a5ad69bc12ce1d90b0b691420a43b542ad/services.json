@@ -2,7 +2,7 @@
   {
     "key": "chatgpt",
     "label": "ChatGPT",
-    "partition_count": 242,
+    "partition_count": 228,
     "unclassified_count": 48
   },
   {
@@ -26,7 +26,7 @@
   {
     "key": "gemini",
     "label": "Gemini",
-    "partition_count": 116,
+    "partition_count": 111,
     "unclassified_count": 13
   },
   {
@@ -39,7 +39,7 @@
     "key": "other",
     "label": "Other",
     "partition_count": 0,
-    "unclassified_count": 87
+    "unclassified_count": 77
   },
   {
     "key": "phone_verification",
