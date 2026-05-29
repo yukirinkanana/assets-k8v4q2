@@ -26,7 +26,7 @@
   {
     "key": "gemini",
     "label": "Gemini",
-    "partition_count": 128,
+    "partition_count": 127,
     "unclassified_count": 13
   },
   {
