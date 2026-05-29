@@ -20,7 +20,7 @@
   {
     "key": "email",
     "label": "邮箱",
-    "partition_count": 114,
+    "partition_count": 115,
     "unclassified_count": 2
   },
   {
@@ -51,7 +51,7 @@
     "key": "service_kiro_mpev59v6",
     "label": "Kiro",
     "partition_count": 0,
-    "unclassified_count": 2
+    "unclassified_count": 1
   },
   {
     "key": "virtual_card",
