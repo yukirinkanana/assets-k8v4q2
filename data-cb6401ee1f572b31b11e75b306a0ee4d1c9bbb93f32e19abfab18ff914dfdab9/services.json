@@ -20,13 +20,13 @@
   {
     "key": "email",
     "label": "邮箱",
-    "partition_count": 110,
+    "partition_count": 109,
     "unclassified_count": 2
   },
   {
     "key": "gemini",
     "label": "Gemini",
-    "partition_count": 131,
+    "partition_count": 130,
     "unclassified_count": 13
   },
   {
