@@ -2,8 +2,8 @@
   {
     "key": "chatgpt",
     "label": "ChatGPT",
-    "partition_count": 281,
-    "unclassified_count": 61
+    "partition_count": 280,
+    "unclassified_count": 60
   },
   {
     "key": "claude",
