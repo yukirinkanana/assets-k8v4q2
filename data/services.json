@@ -20,7 +20,7 @@
   {
     "key": "email",
     "label": "邮箱",
-    "partition_count": 105,
+    "partition_count": 106,
     "unclassified_count": 2
   },
   {
@@ -44,7 +44,7 @@
   {
     "key": "phone_verification",
     "label": "手机接码",
-    "partition_count": 9,
+    "partition_count": 10,
     "unclassified_count": 0
   },
   {
