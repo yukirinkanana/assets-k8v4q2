@@ -2,8 +2,8 @@
   {
     "key": "chatgpt",
     "label": "ChatGPT",
-    "partition_count": 248,
-    "unclassified_count": 34
+    "partition_count": 245,
+    "unclassified_count": 35
   },
   {
     "key": "claude",
@@ -20,19 +20,19 @@
   {
     "key": "email",
     "label": "邮箱",
-    "partition_count": 112,
+    "partition_count": 109,
     "unclassified_count": 2
   },
   {
     "key": "gemini",
     "label": "Gemini",
-    "partition_count": 128,
+    "partition_count": 129,
     "unclassified_count": 10
   },
   {
     "key": "grok",
     "label": "Grok",
-    "partition_count": 35,
+    "partition_count": 34,
     "unclassified_count": 5
   },
   {
