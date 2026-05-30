@@ -2,8 +2,8 @@
   {
     "key": "chatgpt",
     "label": "ChatGPT",
-    "partition_count": 257,
-    "unclassified_count": 50
+    "partition_count": 252,
+    "unclassified_count": 46
   },
   {
     "key": "claude",
@@ -44,7 +44,7 @@
   {
     "key": "phone_verification",
     "label": "手机接码",
-    "partition_count": 18,
+    "partition_count": 24,
     "unclassified_count": 0
   },
   {
