@@ -8,7 +8,7 @@
   {
     "key": "claude",
     "label": "Claude",
-    "partition_count": 41,
+    "partition_count": 42,
     "unclassified_count": 24
   },
   {
@@ -20,31 +20,31 @@
   {
     "key": "email",
     "label": "邮箱",
-    "partition_count": 106,
+    "partition_count": 107,
     "unclassified_count": 1
   },
   {
     "key": "gemini",
     "label": "Gemini",
-    "partition_count": 112,
+    "partition_count": 118,
     "unclassified_count": 7
   },
   {
     "key": "grok",
     "label": "Grok",
     "partition_count": 37,
-    "unclassified_count": 4
+    "unclassified_count": 5
   },
   {
     "key": "other",
     "label": "Other",
     "partition_count": 0,
-    "unclassified_count": 106
+    "unclassified_count": 109
   },
   {
     "key": "phone_verification",
     "label": "手机接码",
-    "partition_count": 35,
+    "partition_count": 39,
     "unclassified_count": 0
   },
   {
