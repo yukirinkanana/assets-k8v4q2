@@ -2,14 +2,14 @@
   {
     "key": "chatgpt",
     "label": "ChatGPT",
-    "partition_count": 226,
-    "unclassified_count": 40
+    "partition_count": 225,
+    "unclassified_count": 42
   },
   {
     "key": "claude",
     "label": "Claude",
-    "partition_count": 32,
-    "unclassified_count": 19
+    "partition_count": 34,
+    "unclassified_count": 20
   },
   {
     "key": "cursor",
@@ -20,31 +20,31 @@
   {
     "key": "email",
     "label": "邮箱",
-    "partition_count": 93,
+    "partition_count": 101,
     "unclassified_count": 2
   },
   {
     "key": "gemini",
     "label": "Gemini",
-    "partition_count": 112,
+    "partition_count": 119,
     "unclassified_count": 10
   },
   {
     "key": "grok",
     "label": "Grok",
-    "partition_count": 32,
+    "partition_count": 35,
     "unclassified_count": 4
   },
   {
     "key": "other",
     "label": "Other",
     "partition_count": 0,
-    "unclassified_count": 102
+    "unclassified_count": 108
   },
   {
     "key": "phone_verification",
     "label": "手机接码",
-    "partition_count": 33,
+    "partition_count": 36,
     "unclassified_count": 0
   },
   {
