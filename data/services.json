@@ -26,7 +26,7 @@
   {
     "key": "gemini",
     "label": "Gemini",
-    "partition_count": 131,
+    "partition_count": 132,
     "unclassified_count": 7
   },
   {
@@ -39,7 +39,7 @@
     "key": "other",
     "label": "Other",
     "partition_count": 0,
-    "unclassified_count": 121
+    "unclassified_count": 120
   },
   {
     "key": "phone_verification",
