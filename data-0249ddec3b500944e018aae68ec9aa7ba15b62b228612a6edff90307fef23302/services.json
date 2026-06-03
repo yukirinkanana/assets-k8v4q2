@@ -32,8 +32,8 @@
   {
     "key": "grok",
     "label": "Grok",
-    "partition_count": 42,
-    "unclassified_count": 6
+    "partition_count": 43,
+    "unclassified_count": 7
   },
   {
     "key": "other",
