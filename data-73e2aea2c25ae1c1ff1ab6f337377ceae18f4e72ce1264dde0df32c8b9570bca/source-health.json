@@ -8,7 +8,7 @@
     "error": 5,
     "healthy": 23
   },
-  "generated_at": "2026-06-07T08:09:06.512291+00:00",
+  "generated_at": "2026-06-07T08:11:56.661065+00:00",
   "site_count": 95,
   "sites": [
     {
@@ -1000,17 +1000,17 @@
     {
       "active_product_count": 9,
       "affects_publish": false,
-      "attempted_in_run": false,
+      "attempted_in_run": true,
       "base_url": "https://shop.aictk.shop",
       "is_enabled": true,
       "last_error_at": null,
       "last_error_message": null,
-      "last_success_at": "2026-06-07T08:02:33.801545",
+      "last_success_at": "2026-06-07T08:11:53.629263",
       "name": "AICTK",
-      "products_seen": null,
+      "products_seen": 9,
       "public_product_count": 9,
-      "run_data_status": null,
-      "run_sync_status": null,
+      "run_data_status": "latest",
+      "run_sync_status": "synced",
       "site_key": "aictk",
       "status": "healthy"
     },
@@ -1544,17 +1544,17 @@
     {
       "active_product_count": 6,
       "affects_publish": false,
-      "attempted_in_run": true,
+      "attempted_in_run": false,
       "base_url": "https://faka.oapi.vip",
       "is_enabled": true,
       "last_error_at": null,
       "last_error_message": null,
       "last_success_at": "2026-06-07T08:09:01.674365",
       "name": "Faka OAPI",
-      "products_seen": 6,
+      "products_seen": null,
       "public_product_count": 6,
-      "run_data_status": "latest",
-      "run_sync_status": "synced",
+      "run_data_status": null,
+      "run_sync_status": null,
       "site_key": "faka_oapi",
       "status": "healthy"
     },
@@ -1627,7 +1627,7 @@
       "status": "healthy"
     }
   ],
-  "sync_finished_at": "2026-06-07T08:09:01.688517+00:00",
-  "sync_run_id": "fe2deef565d3c8fb",
-  "sync_started_at": "2026-06-07T08:08:42.519946+00:00"
+  "sync_finished_at": "2026-06-07T08:11:53.640440+00:00",
+  "sync_run_id": "3ab8da9093a6971c",
+  "sync_started_at": "2026-06-07T08:11:43.632176+00:00"
 }
