@@ -2,8 +2,8 @@
   {
     "key": "chatgpt",
     "label": "ChatGPT",
-    "partition_count": 315,
-    "unclassified_count": 44
+    "partition_count": 321,
+    "unclassified_count": 45
   },
   {
     "key": "claude",
@@ -20,7 +20,7 @@
   {
     "key": "email",
     "label": "邮箱",
-    "partition_count": 101,
+    "partition_count": 98,
     "unclassified_count": 2
   },
   {
@@ -44,7 +44,7 @@
   {
     "key": "phone_verification",
     "label": "手机接码",
-    "partition_count": 43,
+    "partition_count": 44,
     "unclassified_count": 0
   },
   {
@@ -56,7 +56,7 @@
   {
     "key": "virtual_card",
     "label": "虚拟卡",
-    "partition_count": 37,
+    "partition_count": 36,
     "unclassified_count": 0
   }
 ]
