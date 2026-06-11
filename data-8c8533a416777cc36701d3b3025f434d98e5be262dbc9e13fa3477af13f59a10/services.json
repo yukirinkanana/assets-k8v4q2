@@ -26,8 +26,8 @@
   {
     "key": "gemini",
     "label": "Gemini",
-    "partition_count": 259,
-    "unclassified_count": 13
+    "partition_count": 256,
+    "unclassified_count": 14
   },
   {
     "key": "grok",
@@ -56,7 +56,7 @@
   {
     "key": "virtual_card",
     "label": "虚拟卡",
-    "partition_count": 87,
+    "partition_count": 86,
     "unclassified_count": 0
   }
 ]
