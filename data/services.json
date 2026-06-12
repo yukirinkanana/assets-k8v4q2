@@ -3,7 +3,7 @@
     "key": "chatgpt",
     "label": "ChatGPT",
     "partition_count": 540,
-    "unclassified_count": 106
+    "unclassified_count": 105
   },
   {
     "key": "claude",
@@ -56,7 +56,7 @@
   {
     "key": "virtual_card",
     "label": "虚拟卡",
-    "partition_count": 92,
+    "partition_count": 91,
     "unclassified_count": 0
   }
 ]
