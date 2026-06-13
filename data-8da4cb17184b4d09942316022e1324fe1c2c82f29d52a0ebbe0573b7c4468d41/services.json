@@ -2,14 +2,14 @@
   {
     "key": "chatgpt",
     "label": "ChatGPT",
-    "partition_count": 522,
+    "partition_count": 523,
     "unclassified_count": 116
   },
   {
     "key": "claude",
     "label": "Claude",
     "partition_count": 132,
-    "unclassified_count": 39
+    "unclassified_count": 40
   },
   {
     "key": "cursor",
