@@ -39,12 +39,12 @@
     "key": "other",
     "label": "Other",
     "partition_count": 0,
-    "unclassified_count": 701
+    "unclassified_count": 698
   },
   {
     "key": "phone_verification",
     "label": "手机接码",
-    "partition_count": 99,
+    "partition_count": 98,
     "unclassified_count": 0
   },
   {
@@ -56,7 +56,7 @@
   {
     "key": "virtual_card",
     "label": "虚拟卡",
-    "partition_count": 96,
+    "partition_count": 93,
     "unclassified_count": 0
   }
 ]
