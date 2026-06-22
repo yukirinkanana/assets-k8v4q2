@@ -2,7 +2,7 @@
   {
     "key": "chatgpt",
     "label": "ChatGPT",
-    "partition_count": 577,
+    "partition_count": 579,
     "unclassified_count": 130
   },
   {
@@ -20,7 +20,7 @@
   {
     "key": "email",
     "label": "邮箱",
-    "partition_count": 213,
+    "partition_count": 212,
     "unclassified_count": 3
   },
   {
@@ -51,12 +51,12 @@
     "key": "service_kiro_mpev59v6",
     "label": "Kiro",
     "partition_count": 0,
-    "unclassified_count": 2
+    "unclassified_count": 1
   },
   {
     "key": "virtual_card",
     "label": "虚拟卡",
-    "partition_count": 78,
+    "partition_count": 77,
     "unclassified_count": 0
   }
 ]
